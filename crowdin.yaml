@@ -4,4 +4,4 @@ base_path: .
 files:
   -
     source: '/x64dbg.ts'
-    translation: '/translations/x64dbg_%two_letters_code%.ts'
+    translation: '%locale_with_underscore%/%original_file_name%'
