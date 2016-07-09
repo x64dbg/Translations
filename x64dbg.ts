@@ -4621,18 +4621,18 @@ run</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.ui" line="912"/>
+        <location filename="../Src/Gui/MainWindow.ui" line="916"/>
         <source>Undo last instruction</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.ui" line="921"/>
+        <location filename="../Src/Gui/MainWindow.ui" line="925"/>
         <location filename="../Src/Gui/MainWindow.cpp" line="1259"/>
         <source>Generate crash dump</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.ui" line="926"/>
+        <location filename="../Src/Gui/MainWindow.ui" line="930"/>
         <source>&amp;Manage Favourite Tools...</source>
         <translation type="unfinished"></translation>
     </message>
