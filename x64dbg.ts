@@ -5542,7 +5542,7 @@ Do you want to apply these patches anyway?</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../Src/main.cpp" line="131"/>
+        <location filename="../Src/main.cpp" line="133"/>
         <source>DbgInit Error!</source>
         <translation type="unfinished"></translation>
     </message>
