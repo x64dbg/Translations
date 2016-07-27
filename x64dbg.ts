@@ -4701,7 +4701,7 @@ run</source>
     </message>
     <message>
         <location filename="../Src/Gui/MainWindow.ui" line="628"/>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1315"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1321"/>
         <source>Donate</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4750,7 +4750,7 @@ run</source>
     </message>
     <message>
         <location filename="../Src/Gui/MainWindow.ui" line="709"/>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1328"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1334"/>
         <source>Report Bug</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4882,13 +4882,13 @@ run</source>
     </message>
     <message>
         <location filename="../Src/Gui/MainWindow.ui" line="928"/>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1341"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1347"/>
         <source>Generate crash dump</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/MainWindow.ui" line="937"/>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1582"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1588"/>
         <source>&amp;Manage Favourite Tools...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4950,122 +4950,122 @@ run</source>
     <message>
         <location filename="../Src/Gui/MainWindow.cpp" line="366"/>
         <location filename="../Src/Gui/MainWindow.cpp" line="369"/>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1634"/>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1641"/>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1653"/>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1660"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1640"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1647"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1659"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1666"/>
         <source>Languages</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.cpp" line="752"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="758"/>
         <source>Enter trace into finishing condition.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.cpp" line="762"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="768"/>
         <source>Enter trace over finishing condition.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.cpp" line="785"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="791"/>
         <source>About x64dbg</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.cpp" line="787"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="793"/>
         <source>About x32dbg</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.cpp" line="807"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="813"/>
         <source>Open file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.cpp" line="807"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="813"/>
         <source>Executables (*.exe *.dll);;All files (*.*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1235"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1241"/>
         <source>Enter expression to run to...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1258"/>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1398"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1264"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1404"/>
         <source>Error!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1258"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1264"/>
         <source>Patches cannot be shown when not debugging...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1315"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1321"/>
         <source>All the money will go to x64dbg development.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1328"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1334"/>
         <source>You will be taken to a website where you can report a bug.
 Make sure to fill in as much information as possible.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1341"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1347"/>
         <source>This action will crash the debugger and generate a crash dump. You will LOSE ALL YOUR DATA. Do you really want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1354"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1360"/>
         <source>Have fun debugging the debugger!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1354"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1360"/>
         <source>Debugger detected!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1377"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1383"/>
         <source>Change Command Line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1383"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1389"/>
         <source>Cannot get remote command line, use the &apos;getcmdline&apos; command for more information.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1398"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1404"/>
         <source>Could not set command line!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1403"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1409"/>
         <source>New command line: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1411"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1417"/>
         <source>Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1411"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1417"/>
         <source>Manual cannot be opened. Please check if x64dbg.chm exists and ensure there is no other problems with your system.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1642"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1648"/>
         <source>The translation is nearly empty. Do you still want to use this language?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1661"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1667"/>
         <source>New language setting will take effect upon restart.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6106,152 +6106,162 @@ Do you want to apply these patches anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="309"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="304"/>
+        <source>I&apos;m a &lt;a href=&quot;https://github.com/x64dbg/x64dbg/issues/211#issuecomment-235569017&quot;&gt;cocksucker&lt;/a&gt;!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="343"/>
         <source>Exceptions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="315"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="349"/>
         <source>Ignored Exceptions:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="352"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="386"/>
         <source>Add &amp;Range</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="359"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="393"/>
         <source>&amp;Delete Range</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="366"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="400"/>
         <source>Add &amp;Last</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="391"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="425"/>
         <source>Disasm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="397"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="431"/>
         <source>Argument Spaces</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="404"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="438"/>
         <source>Tab between mnemonic and arguments</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="411"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="445"/>
         <source>Memory Spaces</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="418"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="452"/>
         <source>Uppercase</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="425"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="459"/>
         <source>Autocomments only on CIP</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="446"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="480"/>
         <source>GUI</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="458"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="492"/>
         <source>Show FPU registers as little endian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="465"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="499"/>
         <source>Save column order and width</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="486"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="506"/>
+        <source>Don&apos;t show close dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="527"/>
         <source>Misc</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="498"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="539"/>
         <source>Symbol Store:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="505"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="546"/>
         <source>Symbol Path:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="526"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="567"/>
         <source>Set x64dbg as Just In Time Debugger</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="535"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="576"/>
         <source>JIT:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="551"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="592"/>
         <source>Confirm before attaching</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="558"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="599"/>
         <source>&lt;font color=&quot;red&quot;&gt;DIE SCUM!&lt;/font&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="565"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="606"/>
         <source>Enable Load/Save Tab Order</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="606"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="647"/>
         <source>Save</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="616"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="657"/>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.cpp" line="223"/>
+        <location filename="../Src/Gui/SettingsDialog.cpp" line="227"/>
         <source>&lt;font color=&quot;red&quot;&gt;&lt;b&gt;Warning&lt;/b&gt;&lt;/font&gt;: Run the debugger as Admin to enable JIT.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.cpp" line="366"/>
+        <location filename="../Src/Gui/SettingsDialog.cpp" line="372"/>
         <source>Settings saved!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.cpp" line="450"/>
+        <location filename="../Src/Gui/SettingsDialog.cpp" line="456"/>
         <source>ERROR NOT FOUND OLD JIT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.cpp" line="450"/>
+        <location filename="../Src/Gui/SettingsDialog.cpp" line="456"/>
         <source>NOT FOUND OLD JIT ENTRY STORED, USE SETJIT COMMAND</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.cpp" line="594"/>
+        <location filename="../Src/Gui/SettingsDialog.cpp" line="600"/>
         <source>Question</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.cpp" line="594"/>
+        <location filename="../Src/Gui/SettingsDialog.cpp" line="600"/>
         <source>Are you sure you want to add %.8X?</source>
         <translation type="unfinished"></translation>
     </message>
