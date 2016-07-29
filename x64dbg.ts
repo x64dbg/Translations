@@ -3590,18 +3590,23 @@ run</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="619"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="635"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="644"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="663"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="672"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="687"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="696"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="715"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="724"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="740"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="754"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="772"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="416"/>
+        <source>Actions -&gt; Graph -&gt; Toggle overview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Utils/Configuration.cpp" line="620"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="636"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="645"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="664"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="673"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="688"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="697"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="716"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="725"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="741"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="755"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="773"/>
         <source>NOT FOUND IN CONFIG!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3677,8 +3682,13 @@ run</source>
 <context>
     <name>DisassemblerGraphView</name>
     <message>
-        <location filename="../Src/Gui/DisassemblerGraphView.cpp" line="1241"/>
+        <location filename="../Src/Gui/DisassemblerGraphView.cpp" line="1303"/>
         <source>Follow in &amp;Disassembler</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/DisassemblerGraphView.cpp" line="1309"/>
+        <source>Toggle &amp;Overview</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
