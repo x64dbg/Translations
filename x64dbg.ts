@@ -6248,132 +6248,132 @@ Do you want to apply these patches anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="304"/>
-        <source>I&apos;m a &lt;a href=&quot;https://github.com/x64dbg/x64dbg/issues/211#issuecomment-235569017&quot;&gt;cocksucker&lt;/a&gt;!</source>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="295"/>
+        <source>Skip INT3 stepping</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="343"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="316"/>
         <source>Exceptions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="349"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="322"/>
         <source>Ignored Exceptions:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="386"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="359"/>
         <source>Add &amp;Range</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="393"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="366"/>
         <source>&amp;Delete Range</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="400"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="373"/>
         <source>Add &amp;Last</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="425"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="398"/>
         <source>Disasm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="431"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="404"/>
         <source>Argument Spaces</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="438"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="411"/>
         <source>Tab between mnemonic and arguments</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="445"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="418"/>
         <source>Memory Spaces</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="452"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="425"/>
         <source>Uppercase</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="459"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="432"/>
         <source>Autocomments only on CIP</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="480"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="453"/>
         <source>GUI</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="492"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="465"/>
         <source>Show FPU registers as little endian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="499"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="472"/>
         <source>Save column order and width</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="506"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="479"/>
         <source>Don&apos;t show close dialog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="527"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="500"/>
         <source>Misc</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="539"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="512"/>
         <source>Symbol Store:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="546"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="519"/>
         <source>Symbol Path:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="567"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="540"/>
         <source>Set x64dbg as Just In Time Debugger</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="576"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="549"/>
         <source>JIT:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="592"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="565"/>
         <source>Confirm before attaching</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="599"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="572"/>
         <source>&lt;font color=&quot;red&quot;&gt;DIE SCUM!&lt;/font&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="606"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="579"/>
         <source>Enable Load/Save Tab Order</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="647"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="620"/>
         <source>Save</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="657"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="630"/>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
