@@ -893,14 +893,20 @@
     </message>
     <message>
         <location filename="../Src/Gui/AttachDialog.cpp" line="33"/>
-        <location filename="../Src/Gui/AttachDialog.cpp" line="38"/>
+        <location filename="../Src/Gui/AttachDialog.cpp" line="39"/>
         <source>PID</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/AttachDialog.cpp" line="34"/>
-        <location filename="../Src/Gui/AttachDialog.cpp" line="39"/>
+        <location filename="../Src/Gui/AttachDialog.cpp" line="40"/>
         <source>Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/AttachDialog.cpp" line="35"/>
+        <location filename="../Src/Gui/AttachDialog.cpp" line="41"/>
+        <source>Command Line Arguments</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2961,798 +2967,798 @@ run</source>
 <context>
     <name>Configuration</name>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="267"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="269"/>
         <source>File -&gt; Open</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="268"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="270"/>
         <source>File -&gt; Attach</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="269"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="271"/>
         <source>File -&gt; Detach</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="270"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="272"/>
         <source>File -&gt; Exit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="272"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="274"/>
         <source>View -&gt; CPU</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="273"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="275"/>
         <source>View -&gt; Log</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="274"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="276"/>
         <source>View -&gt; Breakpoints</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="275"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="277"/>
         <source>View -&gt; Memory Map</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="276"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="278"/>
         <source>View -&gt; Call Stack</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="277"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="279"/>
         <source>View -&gt; Notes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="278"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="280"/>
         <source>View -&gt; SEH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="279"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="281"/>
         <source>View -&gt; Script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="280"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="282"/>
         <source>View -&gt; Symbol Info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="281"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="283"/>
         <source>View -&gt; Source</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="282"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="284"/>
         <source>View -&gt; References</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="283"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="285"/>
         <source>View -&gt; Threads</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="284"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="286"/>
         <source>View -&gt; Patches</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="285"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="287"/>
         <source>View -&gt; Comments</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="286"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="288"/>
         <source>View -&gt; Labels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="287"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="289"/>
         <source>View -&gt; Bookmarks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="288"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="290"/>
         <source>View -&gt; Functions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="289"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="291"/>
         <source>View -&gt; Snowman</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="290"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="292"/>
         <source>View -&gt; Handles</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="291"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="293"/>
         <source>View -&gt; Graph</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="293"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="295"/>
         <source>Debug -&gt; Run</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="296"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="298"/>
         <source>Debug -&gt; Run until selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="297"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="299"/>
         <source>Debug -&gt; Run until expression</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="298"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="300"/>
         <source>Debug -&gt; Pause</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="299"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="301"/>
         <source>Debug -&gt; Restart</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="300"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="302"/>
         <source>Debug -&gt; Close</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="301"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="303"/>
         <source>Debug -&gt; Step into</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="304"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="306"/>
         <source>Debug -&gt; Step into (source)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="305"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="307"/>
         <source>Debug -&gt; Step over</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="308"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="310"/>
         <source>Debug -&gt; Step over (source)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="309"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="311"/>
         <source>Debug -&gt; Execute till return</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="294"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="296"/>
         <source>Debug -&gt; Run (pass exceptions)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="295"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="297"/>
         <source>Debug -&gt; Run (swallow exception)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="302"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="304"/>
         <source>Debug -&gt; Step into (pass execptions)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="303"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="305"/>
         <source>Debug -&gt; Step into (swallow exception)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="306"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="308"/>
         <source>Debug -&gt; Step over (pass execptions)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="307"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="309"/>
         <source>Debug -&gt; Step over (swallow exception)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="310"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="312"/>
         <source>Debug -&gt; Execute till return (pass exceptions)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="311"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="313"/>
         <source>Debug -&gt; Run to user code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="312"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="314"/>
         <source>Debug -&gt; Skip next instruction</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="313"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="315"/>
         <source>Debug -&gt; Command</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="314"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="316"/>
         <source>Debug -&gt; Trace Into Conditional</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="315"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="317"/>
         <source>Debug -&gt; Trace Over Conditional</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="316"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="318"/>
         <source>Debug -&gt; Trace Record -&gt; Bit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="317"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="319"/>
         <source>Debug -&gt; Trace Record -&gt; None</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="318"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="320"/>
         <source>Debug -&gt; Undo instruction</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="320"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="322"/>
         <source>Plugins -&gt; Scylla</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="322"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="324"/>
         <source>Favourites -&gt; Manage Favourite Tools</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="324"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="326"/>
         <source>Options -&gt; Preferences</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="325"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="327"/>
         <source>Options -&gt; Appearance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="326"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="328"/>
         <source>Options -&gt; Shortcuts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="327"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="329"/>
         <source>Options -&gt; Topmost</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="328"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="330"/>
         <source>Options -&gt; Reload style.css</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="330"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="332"/>
         <source>Help -&gt; About</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="331"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="333"/>
         <source>Help -&gt; Donate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="332"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="334"/>
         <source>Help -&gt; Check for Updates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="333"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="335"/>
         <source>Help -&gt; Calculator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="334"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="336"/>
         <source>Help -&gt; Report Bug</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="335"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="337"/>
         <source>Help -&gt; Manual</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="336"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="338"/>
         <source>Help -&gt; Generate Crash Dump</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="338"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="340"/>
         <source>Actions -&gt; Find Strings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="339"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="341"/>
         <source>Actions -&gt; Find Intermodular Calls</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="340"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="342"/>
         <source>Actions -&gt; Toggle Breakpoint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="341"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="343"/>
         <source>Actions -&gt; Toggle Bookmark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="342"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="344"/>
         <source>Actions -&gt; Delete Breakpoint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="343"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="345"/>
         <source>Actions -&gt; Enable/Disable Breakpoint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="345"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="347"/>
         <source>Actions -&gt; Binary Edit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="346"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="348"/>
         <source>Actions -&gt; Binary Fill</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="347"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="349"/>
         <source>Actions -&gt; Binary Fill NOPs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="348"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="350"/>
         <source>Actions -&gt; Binary Copy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="349"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="351"/>
         <source>Actions -&gt; Binary Paste</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="350"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="352"/>
         <source>Actions -&gt; Binary Paste (Ignore Size)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="351"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="353"/>
         <source>Actions -&gt; Undo Selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="352"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="354"/>
         <source>Actions -&gt; Set Label</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="353"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="355"/>
         <source>Actions -&gt; Set Comment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="354"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="356"/>
         <source>Actions -&gt; Toggle Function</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="355"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="357"/>
         <source>Actions -&gt; Toggle Argument</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="356"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="358"/>
         <source>Actions -&gt; Assemble</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="357"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="359"/>
         <source>Actions -&gt; Yara</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="358"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="360"/>
         <source>Actions -&gt; Set New Origin Here</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="359"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="361"/>
         <source>Actions -&gt; Goto Origin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="360"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="362"/>
         <source>Actions -&gt; Goto Previous</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="361"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="363"/>
         <source>Actions -&gt; Goto Next</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="362"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="364"/>
         <source>Actions -&gt; Goto Expression</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="363"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="365"/>
         <source>Actions -&gt; Goto Start of Page</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="364"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="366"/>
         <source>Actions -&gt; Goto End of Page</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="365"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="367"/>
         <source>Actions -&gt; Goto Start of Function</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="366"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="368"/>
         <source>Actions -&gt; Goto End of Function</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="367"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="369"/>
         <source>Actions -&gt; Goto File Offset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="368"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="370"/>
         <source>Actions -&gt; Find References to Selected Address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="369"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="371"/>
         <source>Actions -&gt; Find Pattern</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="370"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="372"/>
         <source>Actions -&gt; Find References</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="371"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="373"/>
         <source>Actions -&gt; xrefs...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="372"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="374"/>
         <source>Actions -&gt; Analyze Single Function</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="373"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="375"/>
         <source>Actions -&gt; Analyze Module</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="374"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="376"/>
         <source>Actions -&gt; Help on Mnemonic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="375"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="377"/>
         <source>Actions -&gt; Toggle Mnemonic Brief</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="376"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="378"/>
         <source>Actions -&gt; Highlighting Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="377"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="379"/>
         <source>Actions -&gt; Enable/Disable Branch Destination Preview</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="378"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="380"/>
         <source>Actions -&gt; Find</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="379"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="381"/>
         <source>Actions -&gt; Decompile Function</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="380"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="382"/>
         <source>Actions -&gt; Decompile Selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="381"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="383"/>
         <source>Actions -&gt; Edit breakpoint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="382"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="384"/>
         <source>Actions -&gt; Enable/Disable Logging</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="383"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="385"/>
         <source>Actions -&gt; Allocate Memory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="384"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="386"/>
         <source>Actions -&gt; Free Memory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="385"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="387"/>
         <source>Actions -&gt; Sync With Expression</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="386"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="388"/>
         <source>Actions -&gt; Entropy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="387"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="389"/>
         <source>Actions -&gt; Copy All Registers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="388"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="390"/>
         <source>Actions -&gt; Mark As User Module</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="389"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="391"/>
         <source>Actions -&gt; Mark As System Module</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="390"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="392"/>
         <source>Actions -&gt; Mark As Party</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="391"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="393"/>
         <source>Actions -&gt; Set Hardware Breakpoint (Execute)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="392"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="394"/>
         <source>Actions -&gt; Remove Hardware Breakpoint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="393"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="395"/>
         <source>Actions -&gt; Remove Analysis From Module</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="394"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="396"/>
         <source>Actions -&gt; Remove Analysis From Selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="395"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="397"/>
         <source>Actions -&gt; Treat Selection As Code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="396"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="398"/>
         <source>Actions -&gt; Treat Selection As Byte</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="397"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="399"/>
         <source>Actions -&gt; Treat Selection As Word</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="398"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="400"/>
         <source>Actions -&gt; Treat Selection As Dword</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="399"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="401"/>
         <source>Actions -&gt; Treat Selection As Fword</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="400"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="402"/>
         <source>Actions -&gt; Treat Selection As Qword</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="401"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="403"/>
         <source>Actions -&gt; Treat Selection As Tbyte</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="402"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="404"/>
         <source>Actions -&gt; Treat Selection As Oword</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="403"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="405"/>
         <source>Actions -&gt; Treat Selection As Float</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="404"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="406"/>
         <source>Actions -&gt; Treat Selection As Double</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="405"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="407"/>
         <source>Actions -&gt; Treat Selection As LongDouble</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="406"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="408"/>
         <source>Actions -&gt; Treat Selection As ASCII</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="407"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="409"/>
         <source>Actions -&gt; Treat Selection As UNICODE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="408"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="410"/>
         <source>Actions -&gt; Treat Selection As MMWord</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="409"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="411"/>
         <source>Actions -&gt; Treat Selection As XMMWord</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="410"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="412"/>
         <source>Actions -&gt; Treat Selection As YMMWord</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="411"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="413"/>
         <source>Actions -&gt; Increase Register</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="412"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="414"/>
         <source>Actions -&gt; Decrease Register</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="413"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="415"/>
         <source>Actions -&gt; Zero Register</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="414"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="416"/>
         <source>Actions -&gt; Set Register to One</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="415"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="417"/>
         <source>Actions -&gt; Toggle Register Value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="416"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="418"/>
         <source>Actions -&gt; Copy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="417"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="419"/>
         <source>Actions -&gt; Copy Address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="418"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="420"/>
         <source>Actions -&gt; Copy Symbol</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="419"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="421"/>
         <source>Actions -&gt; Load Script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="420"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="422"/>
         <source>Actions -&gt; Reload Script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="421"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="423"/>
         <source>Actions -&gt; Unload Script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="422"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="424"/>
         <source>Actions -&gt; Run Script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="423"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="425"/>
         <source>Actions -&gt; Toggle Script Breakpoint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="424"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="426"/>
         <source>Actions -&gt; Run Script to Cursor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="425"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="427"/>
         <source>Actions -&gt; Step Script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="426"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="428"/>
         <source>Actions -&gt; Abort Script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="427"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="429"/>
         <source>Actions -&gt; Execute Script Command</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="428"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="430"/>
         <source>Actions -&gt; Refresh</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="429"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="431"/>
         <source>Actions -&gt; Graph</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="430"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="432"/>
         <source>Actions -&gt; Graph -&gt; Toggle overview</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="634"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="650"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="659"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="678"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="687"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="702"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="711"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="730"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="739"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="755"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="769"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="787"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="636"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="652"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="661"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="680"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="689"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="704"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="713"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="732"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="741"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="757"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="771"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="789"/>
         <source>NOT FOUND IN CONFIG!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4358,31 +4364,31 @@ Invalid database file (JSON)!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="2183"/>
+        <location filename="../../dbg/debugger.cpp" line="2296"/>
         <source>Error starting process (CreateProcess, %s)!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="2192"/>
+        <location filename="../../dbg/debugger.cpp" line="2305"/>
         <location filename="../../dbg/debugger_commands.cpp" line="1708"/>
         <source>IsWow64Process failed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="2200"/>
+        <location filename="../../dbg/debugger.cpp" line="2313"/>
         <location filename="../../dbg/debugger_commands.cpp" line="1714"/>
         <source>Use x32dbg to debug this process!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="2202"/>
+        <location filename="../../dbg/debugger.cpp" line="2315"/>
         <location filename="../../dbg/debugger_commands.cpp" line="1716"/>
         <source>Use x64dbg to debug this process!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="2287"/>
+        <location filename="../../dbg/debugger.cpp" line="2400"/>
         <source>Debugging stopped!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5510,7 +5516,7 @@ Invalid database file (JSON)!</source>
     </message>
     <message>
         <location filename="../../dbg/instruction.cpp" line="135"/>
-        <source>Not enough arguments! At lease %d arguments must be specified.
+        <source>Not enough arguments! At least %d arguments must be specified.
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -8405,10 +8411,10 @@ Do you want me to fix this?</source>
     <message>
         <location filename="../Src/Gui/MainWindow.cpp" line="402"/>
         <location filename="../Src/Gui/MainWindow.cpp" line="405"/>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1575"/>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1582"/>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1594"/>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1601"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1576"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1583"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1596"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1603"/>
         <source>Languages</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8520,12 +8526,12 @@ Make sure to fill in as much information as possible.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1583"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1584"/>
         <source>The translation is nearly empty. Do you still want to use this language?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/MainWindow.cpp" line="1602"/>
+        <location filename="../Src/Gui/MainWindow.cpp" line="1604"/>
         <source>New language setting will take effect upon restart.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9261,6 +9267,11 @@ Do you want to apply these patches anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../Src/Gui/RegistersView.cpp" line="1895"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="1897"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="1899"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="1901"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="1903"/>
         <location filename="../Src/Gui/RegistersView.cpp" line="1999"/>
         <source>Edit</source>
         <translation type="unfinished"></translation>
@@ -9686,82 +9697,87 @@ Do you want to apply these patches anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="500"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="486"/>
+        <source>Show PID in HEX</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="507"/>
         <source>Misc</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="512"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="519"/>
         <source>Symbol Store:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="519"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="526"/>
         <source>Symbol Path:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="540"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="547"/>
         <source>Set x64dbg as Just In Time Debugger</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="549"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="556"/>
         <source>JIT:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="565"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="572"/>
         <source>Confirm before attaching</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="572"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="579"/>
         <source>&lt;font color=&quot;red&quot;&gt;DIE SCUM!&lt;/font&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="579"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="586"/>
         <source>Enable Load/Save Tab Order</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="620"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="627"/>
         <source>Save</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="630"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="637"/>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.cpp" line="227"/>
+        <location filename="../Src/Gui/SettingsDialog.cpp" line="229"/>
         <source>&lt;font color=&quot;red&quot;&gt;&lt;b&gt;Warning&lt;/b&gt;&lt;/font&gt;: Run the debugger as Admin to enable JIT.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.cpp" line="372"/>
+        <location filename="../Src/Gui/SettingsDialog.cpp" line="375"/>
         <source>Settings saved!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.cpp" line="456"/>
+        <location filename="../Src/Gui/SettingsDialog.cpp" line="459"/>
         <source>ERROR NOT FOUND OLD JIT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.cpp" line="456"/>
+        <location filename="../Src/Gui/SettingsDialog.cpp" line="459"/>
         <source>NOT FOUND OLD JIT ENTRY STORED, USE SETJIT COMMAND</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.cpp" line="600"/>
+        <location filename="../Src/Gui/SettingsDialog.cpp" line="603"/>
         <source>Question</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.cpp" line="600"/>
+        <location filename="../Src/Gui/SettingsDialog.cpp" line="603"/>
         <source>Are you sure you want to add %.8X?</source>
         <translation type="unfinished"></translation>
     </message>
