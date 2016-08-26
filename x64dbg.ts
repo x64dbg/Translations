@@ -1680,107 +1680,117 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="726"/>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="755"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="624"/>
+        <source>Current address is not executable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="625"/>
+        <source>Setting software breakpoint here may result in crash. Do you really want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="736"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="765"/>
         <source>Add label at </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="730"/>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="759"/>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="783"/>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="800"/>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="910"/>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="962"/>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1347"/>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1394"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="740"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="769"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="793"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="810"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="920"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="972"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1357"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1404"/>
         <source>Error!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="730"/>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="759"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="740"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="769"/>
         <source>DbgSetLabelAt failed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="779"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="789"/>
         <source>Add comment at </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="783"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="793"/>
         <source>DbgSetCommentAt failed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="800"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="810"/>
         <source>DbgSetBookmarkAt failed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="892"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="902"/>
         <source>Assemble at %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="910"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="920"/>
         <source>Failed to assemble instruction &quot; %1 &quot; (%2)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="962"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="972"/>
         <source>Not inside a module...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="968"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="978"/>
         <source>Goto File Offset in </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1063"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1073"/>
         <source>Enter Constant</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1108"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1118"/>
         <source>Find Pattern...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1161"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1171"/>
         <source>Edit code at %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1179"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1189"/>
         <source>Fill code at %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1347"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1357"/>
         <source>Selection not in a module...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1394"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1404"/>
         <source>Failed to assemble instruction &quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1519"/>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1535"/>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1551"/>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1567"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1529"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1545"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1561"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1577"/>
         <source>Failed to set trace record.
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1200"/>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1602"/>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1623"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1210"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1612"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1633"/>
         <source>Size</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2265,53 +2275,53 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDump.cpp" line="1229"/>
+        <location filename="../Src/Gui/CPUDump.cpp" line="1228"/>
         <source>Find Pattern...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDump.cpp" line="1274"/>
+        <location filename="../Src/Gui/CPUDump.cpp" line="1273"/>
         <source>Dump</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDump.cpp" line="1312"/>
+        <location filename="../Src/Gui/CPUDump.cpp" line="1311"/>
         <source>Entropy (Address: %1, Size: %2)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDump.cpp" line="1323"/>
+        <location filename="../Src/Gui/CPUDump.cpp" line="1322"/>
         <source>Enter expression to sync with...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDump.cpp" line="1347"/>
+        <location filename="../Src/Gui/CPUDump.cpp" line="1346"/>
         <source>Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDump.cpp" line="1353"/>
+        <location filename="../Src/Gui/CPUDump.cpp" line="1352"/>
         <source>Warning</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDump.cpp" line="1353"/>
+        <location filename="../Src/Gui/CPUDump.cpp" line="1352"/>
         <source>You&apos;re trying to allocate a zero-sized buffer just now.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDump.cpp" line="1358"/>
-        <location filename="../Src/Gui/CPUDump.cpp" line="1369"/>
+        <location filename="../Src/Gui/CPUDump.cpp" line="1357"/>
+        <location filename="../Src/Gui/CPUDump.cpp" line="1368"/>
         <source>Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDump.cpp" line="1358"/>
+        <location filename="../Src/Gui/CPUDump.cpp" line="1357"/>
         <source>The size of buffer you&apos;re trying to allocate exceeds 1GB. Please check your expression to ensure nothing is wrong.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDump.cpp" line="1369"/>
+        <location filename="../Src/Gui/CPUDump.cpp" line="1368"/>
         <source>Memory allocation failed!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4158,6 +4168,7 @@ Invalid database file (JSON)!</source>
     </message>
     <message>
         <location filename="../../dbg/debugger.cpp" line="1176"/>
+        <location filename="../../dbg/debugger.cpp" line="1382"/>
         <source>entry breakpoint</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4165,6 +4176,11 @@ Invalid database file (JSON)!</source>
         <location filename="../../dbg/debugger.cpp" line="1227"/>
         <source>Process stopped with exit code 0x%X
 </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../dbg/debugger.cpp" line="1249"/>
+        <source>Thread</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4192,6 +4208,12 @@ Invalid database file (JSON)!</source>
     <message>
         <location filename="../../dbg/debugger.cpp" line="1327"/>
         <source>System breakpoint reached!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../dbg/debugger.cpp" line="1408"/>
+        <location filename="../../dbg/debugger.cpp" line="1410"/>
+        <source>TLS Callback</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4390,31 +4412,31 @@ Invalid database file (JSON)!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="2311"/>
+        <location filename="../../dbg/debugger.cpp" line="2403"/>
         <source>Error starting process (CreateProcess, %s)!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="2320"/>
+        <location filename="../../dbg/debugger.cpp" line="2412"/>
         <location filename="../../dbg/debugger_commands.cpp" line="1715"/>
         <source>IsWow64Process failed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="2328"/>
+        <location filename="../../dbg/debugger.cpp" line="2420"/>
         <location filename="../../dbg/debugger_commands.cpp" line="1721"/>
         <source>Use x32dbg to debug this process!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="2330"/>
+        <location filename="../../dbg/debugger.cpp" line="2422"/>
         <location filename="../../dbg/debugger_commands.cpp" line="1723"/>
         <source>Use x64dbg to debug this process!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="2415"/>
+        <location filename="../../dbg/debugger.cpp" line="2507"/>
         <source>Debugging stopped!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6723,39 +6745,39 @@ Invalid database file (JSON)!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/watch.cpp" line="436"/>
+        <location filename="../../dbg/watch.cpp" line="438"/>
         <source>No enough arguments for addwatch
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/watch.cpp" line="462"/>
-        <location filename="../../dbg/watch.cpp" line="540"/>
+        <location filename="../../dbg/watch.cpp" line="464"/>
+        <location filename="../../dbg/watch.cpp" line="542"/>
         <source>No enough arguments for delwatch
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/watch.cpp" line="469"/>
-        <location filename="../../dbg/watch.cpp" line="492"/>
-        <location filename="../../dbg/watch.cpp" line="531"/>
-        <location filename="../../dbg/watch.cpp" line="547"/>
+        <location filename="../../dbg/watch.cpp" line="471"/>
+        <location filename="../../dbg/watch.cpp" line="494"/>
+        <location filename="../../dbg/watch.cpp" line="533"/>
+        <location filename="../../dbg/watch.cpp" line="549"/>
         <source>Error expression in argument 1.
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/watch.cpp" line="480"/>
+        <location filename="../../dbg/watch.cpp" line="482"/>
         <source>No enough arguments for SetWatchName</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/watch.cpp" line="501"/>
+        <location filename="../../dbg/watch.cpp" line="503"/>
         <source>No enough arguments for SetWatchExpression</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/watch.cpp" line="565"/>
+        <location filename="../../dbg/watch.cpp" line="567"/>
         <source>Unknown watchdog mode.
 </source>
         <translation type="unfinished"></translation>
@@ -7052,6 +7074,31 @@ Do you want me to fix this?</source>
     <message>
         <location filename="../../dbg/x64_dbg.cpp" line="632"/>
         <source>Exit signal processed successfully!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../dbg/assemble.cpp" line="78"/>
+        <source>Failed on ks_open()...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../dbg/assemble.cpp" line="88"/>
+        <source>ks_asm() failed: count = %lu, error = %u</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../dbg/assemble.cpp" line="222"/>
+        <source>Non-executable memory region</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../dbg/assemble.cpp" line="223"/>
+        <source>Assembled branch does not point to an executable memory region!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../dbg/assemble.cpp" line="246"/>
+        <source>Error while writing process memory</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
