@@ -329,6 +329,7 @@
         <location filename="../Src/Gui/AppearanceDialog.cpp" line="503"/>
         <location filename="../Src/Gui/AppearanceDialog.cpp" line="511"/>
         <location filename="../Src/Gui/AppearanceDialog.cpp" line="529"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="537"/>
         <source>Background</source>
         <translation type="unfinished"></translation>
     </message>
@@ -365,13 +366,13 @@
     </message>
     <message>
         <location filename="../Src/Gui/AppearanceDialog.cpp" line="425"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="542"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="543"/>
         <source>RIP</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/AppearanceDialog.cpp" line="427"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="542"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="543"/>
         <source>EIP</source>
         <translation type="unfinished"></translation>
     </message>
@@ -731,52 +732,52 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="538"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="539"/>
         <source>Other:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="539"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="540"/>
         <source>Current Thread</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="540"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="541"/>
         <source>Watch (When Watchdog is Triggered)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="541"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="542"/>
         <source>Memory Map Breakpoint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="542"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="543"/>
         <source>Memory Map %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="543"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="544"/>
         <source>Memory Map Section Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="544"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="545"/>
         <source>Search Highlight Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="565"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="566"/>
         <source>NOT FOUND IN CONFIG!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="569"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="570"/>
         <source>&amp;Default Value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="572"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="573"/>
         <source>&amp;Current Setting</source>
         <translation type="unfinished"></translation>
     </message>
@@ -913,175 +914,190 @@
 <context>
     <name>BreakpointsView</name>
     <message>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="14"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="16"/>
         <source>Software</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="14"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="29"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="44"/>
-        <source>Address</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="15"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="30"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="45"/>
-        <source>Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="16"/>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="31"/>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="46"/>
-        <source>Module/Label</source>
+        <source>Address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="17"/>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="32"/>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="47"/>
-        <source>State</source>
+        <source>Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="18"/>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="33"/>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="48"/>
-        <source>Hit count</source>
+        <source>Module/Label</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="19"/>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="34"/>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="49"/>
-        <source>Log text</source>
+        <source>State</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="20"/>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="35"/>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="50"/>
-        <source>Condition</source>
+        <source>Hit count</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="21"/>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="36"/>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="51"/>
-        <source>Fast resume</source>
+        <source>Log text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="22"/>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="37"/>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="52"/>
-        <source>Command on hit</source>
+        <source>Condition</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="23"/>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="38"/>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="53"/>
+        <source>Fast resume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="24"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="39"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="54"/>
+        <source>Command on hit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="25"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="40"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="55"/>
         <source>Comment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="29"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="31"/>
         <source>Hardware</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="44"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="46"/>
         <source>Memory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="117"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="158"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="198"/>
-        <source>Inactive</source>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="60"/>
+        <source>Software breakpoint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="61"/>
+        <source>Hardware breakpoint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="62"/>
+        <source>Memory breakpoint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="119"/>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="160"/>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="200"/>
-        <source>Enabled</source>
+        <source>Inactive</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="121"/>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="162"/>
         <location filename="../Src/Gui/BreakpointsView.cpp" line="202"/>
+        <source>Enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="123"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="164"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="204"/>
         <source>Disabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="224"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="226"/>
         <source>&amp;Edit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="239"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="410"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="567"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="241"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="412"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="569"/>
         <source>Remove</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="245"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="416"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="573"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="247"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="418"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="575"/>
         <source>Remove All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="249"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="306"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="316"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="420"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="463"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="473"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="577"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="620"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="630"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="251"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="308"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="318"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="422"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="465"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="475"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="579"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="622"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="632"/>
         <source>Enable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="255"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="426"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="583"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="257"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="428"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="585"/>
         <source>Reset hit count</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="260"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="431"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="588"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="262"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="433"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="590"/>
         <source>Enable All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="265"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="436"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="593"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="267"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="438"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="595"/>
         <source>Disable All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="311"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="468"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="625"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="313"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="470"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="627"/>
         <source>Disable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="342"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="499"/>
-        <location filename="../Src/Gui/BreakpointsView.cpp" line="656"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="344"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="501"/>
+        <location filename="../Src/Gui/BreakpointsView.cpp" line="658"/>
         <source>&amp;Copy</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2433,24 +2449,24 @@
 <context>
     <name>CPUSideBar</name>
     <message>
-        <location filename="../Src/Gui/CPUSideBar.cpp" line="346"/>
-        <location filename="../Src/Gui/CPUSideBar.cpp" line="352"/>
+        <location filename="../Src/Gui/CPUSideBar.cpp" line="362"/>
+        <location filename="../Src/Gui/CPUSideBar.cpp" line="368"/>
         <source>Cannot fold selection.
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUSideBar.cpp" line="423"/>
+        <location filename="../Src/Gui/CPUSideBar.cpp" line="439"/>
         <source>Breakpoint Enabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUSideBar.cpp" line="426"/>
+        <location filename="../Src/Gui/CPUSideBar.cpp" line="442"/>
         <source>Breakpoint Disabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUSideBar.cpp" line="429"/>
+        <location filename="../Src/Gui/CPUSideBar.cpp" line="445"/>
         <source>Breakpoint Not Set</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3021,853 +3037,853 @@ run</source>
 <context>
     <name>Configuration</name>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="269"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="271"/>
         <source>File -&gt; Open</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="270"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="272"/>
         <source>File -&gt; Attach</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="271"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="273"/>
         <source>File -&gt; Detach</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="272"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="274"/>
         <source>File -&gt; Exit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="274"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="276"/>
         <source>View -&gt; CPU</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="275"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="277"/>
         <source>View -&gt; Log</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="276"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="278"/>
         <source>View -&gt; Breakpoints</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="277"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="279"/>
         <source>View -&gt; Memory Map</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="278"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="280"/>
         <source>View -&gt; Call Stack</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="279"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="281"/>
         <source>View -&gt; Notes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="280"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="282"/>
         <source>View -&gt; SEH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="281"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="283"/>
         <source>View -&gt; Script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="282"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="284"/>
         <source>View -&gt; Symbol Info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="283"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="285"/>
         <source>View -&gt; Source</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="284"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="286"/>
         <source>View -&gt; References</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="285"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="287"/>
         <source>View -&gt; Threads</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="286"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="288"/>
         <source>View -&gt; Patches</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="287"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="289"/>
         <source>View -&gt; Comments</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="288"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="290"/>
         <source>View -&gt; Labels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="289"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="291"/>
         <source>View -&gt; Bookmarks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="290"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="292"/>
         <source>View -&gt; Functions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="291"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="293"/>
         <source>View -&gt; Snowman</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="292"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="294"/>
         <source>View -&gt; Handles</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="293"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="295"/>
         <source>View -&gt; Graph</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="295"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="297"/>
         <source>Debug -&gt; Run</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="298"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="300"/>
         <source>Debug -&gt; Run until selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="299"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="301"/>
         <source>Debug -&gt; Run until expression</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="300"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="302"/>
         <source>Debug -&gt; Pause</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="301"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="303"/>
         <source>Debug -&gt; Restart</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="302"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="304"/>
         <source>Debug -&gt; Close</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="303"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="305"/>
         <source>Debug -&gt; Step into</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="306"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="308"/>
         <source>Debug -&gt; Step into (source)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="307"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="309"/>
         <source>Debug -&gt; Step over</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="310"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="312"/>
         <source>Debug -&gt; Step over (source)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="311"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="313"/>
         <source>Debug -&gt; Execute till return</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="296"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="298"/>
         <source>Debug -&gt; Run (pass exceptions)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="297"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="299"/>
         <source>Debug -&gt; Run (swallow exception)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="304"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="306"/>
         <source>Debug -&gt; Step into (pass execptions)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="305"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="307"/>
         <source>Debug -&gt; Step into (swallow exception)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="308"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="310"/>
         <source>Debug -&gt; Step over (pass execptions)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="309"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="311"/>
         <source>Debug -&gt; Step over (swallow exception)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="312"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="314"/>
         <source>Debug -&gt; Execute till return (pass exceptions)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="313"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="315"/>
         <source>Debug -&gt; Run to user code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="314"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="316"/>
         <source>Debug -&gt; Skip next instruction</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="315"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="317"/>
         <source>Debug -&gt; Command</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="316"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="318"/>
         <source>Debug -&gt; Trace Into Conditional</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="317"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="319"/>
         <source>Debug -&gt; Trace Over Conditional</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="318"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="320"/>
         <source>Debug -&gt; Trace Record -&gt; Bit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="319"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="321"/>
         <source>Debug -&gt; Trace Record -&gt; None</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="320"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="322"/>
         <source>Debug -&gt; Undo instruction</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="322"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="324"/>
         <source>Plugins -&gt; Scylla</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="324"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="326"/>
         <source>Favourites -&gt; Manage Favourite Tools</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="326"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="328"/>
         <source>Options -&gt; Preferences</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="327"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="329"/>
         <source>Options -&gt; Appearance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="328"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="330"/>
         <source>Options -&gt; Shortcuts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="329"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="331"/>
         <source>Options -&gt; Topmost</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="330"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="332"/>
         <source>Options -&gt; Reload style.css</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="332"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="334"/>
         <source>Help -&gt; About</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="333"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="335"/>
         <source>Help -&gt; Donate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="334"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="336"/>
         <source>Help -&gt; Check for Updates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="335"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="337"/>
         <source>Help -&gt; Calculator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="336"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="338"/>
         <source>Help -&gt; Report Bug</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="337"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="339"/>
         <source>Help -&gt; Manual</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="338"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="340"/>
         <source>Help -&gt; Generate Crash Dump</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="340"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="342"/>
         <source>Actions -&gt; Find Strings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="341"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="343"/>
         <source>Actions -&gt; Find Intermodular Calls</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="342"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="344"/>
         <source>Actions -&gt; Toggle Breakpoint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="343"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="345"/>
         <source>Actions -&gt; Toggle Bookmark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="344"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="346"/>
         <source>Actions -&gt; Delete Breakpoint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="345"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="347"/>
         <source>Actions -&gt; Enable/Disable Breakpoint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="347"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="349"/>
         <source>Actions -&gt; Binary Edit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="348"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="350"/>
         <source>Actions -&gt; Binary Fill</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="349"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="351"/>
         <source>Actions -&gt; Binary Fill NOPs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="350"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="352"/>
         <source>Actions -&gt; Binary Copy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="351"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="353"/>
         <source>Actions -&gt; Binary Paste</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="352"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="354"/>
         <source>Actions -&gt; Binary Paste (Ignore Size)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="353"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="355"/>
         <source>Actions -&gt; Undo Selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="354"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="356"/>
         <source>Actions -&gt; Set Label</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="355"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="357"/>
         <source>Actions -&gt; Set Comment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="356"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="358"/>
         <source>Actions -&gt; Toggle Function</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="357"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="359"/>
         <source>Actions -&gt; Toggle Argument</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="358"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="360"/>
         <source>Actions -&gt; Assemble</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="359"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="361"/>
         <source>Actions -&gt; Yara</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="360"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="362"/>
         <source>Actions -&gt; Set New Origin Here</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="361"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="363"/>
         <source>Actions -&gt; Goto Origin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="362"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="364"/>
         <source>Actions -&gt; Goto Previous</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="363"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="365"/>
         <source>Actions -&gt; Goto Next</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="364"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="366"/>
         <source>Actions -&gt; Goto Expression</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="365"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="367"/>
         <source>Actions -&gt; Goto Start of Page</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="366"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="368"/>
         <source>Actions -&gt; Goto End of Page</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="367"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="369"/>
         <source>Actions -&gt; Goto Start of Function</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="368"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="370"/>
         <source>Actions -&gt; Goto End of Function</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="369"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="371"/>
         <source>Actions -&gt; Goto File Offset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="370"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="372"/>
         <source>Actions -&gt; Find References to Selected Address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="371"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="373"/>
         <source>Actions -&gt; Find Pattern</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="372"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="374"/>
         <source>Actions -&gt; Find References</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="373"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="375"/>
         <source>Actions -&gt; xrefs...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="374"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="376"/>
         <source>Actions -&gt; Analyze Single Function</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="375"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="377"/>
         <source>Actions -&gt; Analyze Module</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="376"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="378"/>
         <source>Actions -&gt; Help on Mnemonic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="377"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="379"/>
         <source>Actions -&gt; Toggle Mnemonic Brief</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="378"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="380"/>
         <source>Actions -&gt; Highlighting Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="379"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="381"/>
         <source>Actions -&gt; Enable/Disable Branch Destination Preview</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="380"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="382"/>
         <source>Actions -&gt; Find</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="381"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="383"/>
         <source>Actions -&gt; Decompile Function</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="382"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="384"/>
         <source>Actions -&gt; Decompile Selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="383"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="385"/>
         <source>Actions -&gt; Edit breakpoint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="384"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="386"/>
         <source>Actions -&gt; Enable/Disable Logging</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="385"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="387"/>
         <source>Actions -&gt; Allocate Memory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="386"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="388"/>
         <source>Actions -&gt; Free Memory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="387"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="389"/>
         <source>Actions -&gt; Sync With Expression</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="388"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="390"/>
         <source>Actions -&gt; Entropy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="389"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="391"/>
         <source>Actions -&gt; Copy All Registers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="390"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="392"/>
         <source>Actions -&gt; Mark As User Module</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="391"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="393"/>
         <source>Actions -&gt; Mark As System Module</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="392"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="394"/>
         <source>Actions -&gt; Mark As Party</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="393"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="395"/>
         <source>Actions -&gt; Set Hardware Breakpoint (Execute)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="394"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="396"/>
         <source>Actions -&gt; Remove Hardware Breakpoint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="395"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="397"/>
         <source>Actions -&gt; Remove Analysis From Module</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="396"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="398"/>
         <source>Actions -&gt; Remove Analysis From Selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="397"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="399"/>
         <source>Actions -&gt; Treat Selection As Code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="398"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="400"/>
         <source>Actions -&gt; Treat Selection As Byte</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="399"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="401"/>
         <source>Actions -&gt; Treat Selection As Word</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="400"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="402"/>
         <source>Actions -&gt; Treat Selection As Dword</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="401"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="403"/>
         <source>Actions -&gt; Treat Selection As Fword</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="402"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="404"/>
         <source>Actions -&gt; Treat Selection As Qword</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="403"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="405"/>
         <source>Actions -&gt; Treat Selection As Tbyte</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="404"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="406"/>
         <source>Actions -&gt; Treat Selection As Oword</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="405"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="407"/>
         <source>Actions -&gt; Treat Selection As Float</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="406"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="408"/>
         <source>Actions -&gt; Treat Selection As Double</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="407"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="409"/>
         <source>Actions -&gt; Treat Selection As LongDouble</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="408"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="410"/>
         <source>Actions -&gt; Treat Selection As ASCII</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="409"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="411"/>
         <source>Actions -&gt; Treat Selection As UNICODE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="410"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="412"/>
         <source>Actions -&gt; Treat Selection As MMWord</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="411"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="413"/>
         <source>Actions -&gt; Treat Selection As XMMWord</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="412"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="414"/>
         <source>Actions -&gt; Treat Selection As YMMWord</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="413"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="415"/>
         <source>Actions -&gt; Increase Register</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="414"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="416"/>
         <source>Actions -&gt; Decrease Register</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="415"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="417"/>
         <source>Actions -&gt; Increase Register by</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="416"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="418"/>
         <source>Actions -&gt; Decrease Register by</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="417"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="419"/>
         <source>Actions -&gt; Zero Register</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="418"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="420"/>
         <source>Actions -&gt; Set Register to One</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="419"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="421"/>
         <source>Actions -&gt; Toggle Register Value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="420"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="422"/>
         <source>Actions -&gt; Copy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="421"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="423"/>
         <source>Actions -&gt; Copy Address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="422"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="424"/>
         <source>Actions -&gt; Copy Symbol</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="423"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="425"/>
         <source>Actions -&gt; Load Script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="424"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="426"/>
         <source>Actions -&gt; Reload Script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="425"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="427"/>
         <source>Actions -&gt; Unload Script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="426"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="428"/>
         <source>Actions -&gt; Run Script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="427"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="429"/>
         <source>Actions -&gt; Toggle Script Breakpoint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="428"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="430"/>
         <source>Actions -&gt; Run Script to Cursor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="429"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="431"/>
         <source>Actions -&gt; Step Script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="430"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="432"/>
         <source>Actions -&gt; Abort Script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="431"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="433"/>
         <source>Actions -&gt; Execute Script Command</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="432"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="434"/>
         <source>Actions -&gt; Refresh</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="433"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="435"/>
         <source>Actions -&gt; Graph</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="434"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="436"/>
         <source>Actions -&gt; Graph -&gt; Toggle overview</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="435"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="437"/>
         <source>Actions -&gt; Increment x87 Stack</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="436"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="438"/>
         <source>Actions -&gt; Decrement x87 Stack</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="437"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="439"/>
         <source>Actions -&gt; Push</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="438"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="440"/>
         <source>Actions -&gt; Pop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="439"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="441"/>
         <source>Actions -&gt; Redirect Log</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="440"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="442"/>
         <source>Actions -&gt; Browse in Explorer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="441"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="443"/>
         <source>Actions -&gt; Download Symbols for This Module</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="442"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="444"/>
         <source>Actions -&gt; Download Symbols for All Modules</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="443"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="445"/>
         <source>Actions -&gt; Create New Thread Here</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Utils/Configuration.cpp" line="647"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="663"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="672"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="691"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="700"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="715"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="724"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="743"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="752"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="768"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="782"/>
-        <location filename="../Src/Utils/Configuration.cpp" line="800"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="649"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="665"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="674"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="693"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="702"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="717"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="726"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="745"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="754"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="770"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="784"/>
+        <location filename="../Src/Utils/Configuration.cpp" line="802"/>
         <source>NOT FOUND IN CONFIG!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4138,422 +4154,447 @@ Invalid database file (JSON)!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="667"/>
+        <location filename="../../dbg/debugger.cpp" line="583"/>
+        <source>DLL Load</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../dbg/debugger.cpp" line="586"/>
+        <source>DLL Unload</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../dbg/debugger.cpp" line="589"/>
+        <source>DLL Load and unload</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../dbg/debugger.cpp" line="595"/>
+        <source>DLL Breakpoint %s(%s):Module %s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../dbg/debugger.cpp" line="597"/>
+        <source>DLL Breakpoint(%s):Module %s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../dbg/debugger.cpp" line="700"/>
         <source>Breakpoint reached not in list!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="781"/>
+        <location filename="../../dbg/debugger.cpp" line="817"/>
         <source>User code reached at %s (%p)!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="885"/>
+        <location filename="../../dbg/debugger.cpp" line="921"/>
         <source>Breakpoint %p has been disabled because the bytes don&apos;t match! Expected: %02X %02X, Found: %02X %02X
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="892"/>
+        <location filename="../../dbg/debugger.cpp" line="928"/>
         <source>Could not set breakpoint %p! (SetBPX)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="895"/>
+        <location filename="../../dbg/debugger.cpp" line="931"/>
         <source>MemRead failed on breakpoint address%p!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="904"/>
+        <location filename="../../dbg/debugger.cpp" line="940"/>
         <source>Could not set memory breakpoint %p! (SetMemoryBPXEx)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="913"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="914"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1001"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="791"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="878"/>
+        <location filename="../../dbg/debugger.cpp" line="949"/>
         <source>You can only set 4 hardware breakpoints</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="920"/>
+        <location filename="../../dbg/debugger.cpp" line="956"/>
         <source>Could not set hardware breakpoint %p! (SetHardwareBreakPoint)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="922"/>
+        <location filename="../../dbg/debugger.cpp" line="958"/>
         <source>Set hardware breakpoint on %p!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="945"/>
+        <location filename="../../dbg/debugger.cpp" line="981"/>
         <source>Could not delete breakpoint %p! (DeleteBPX)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="949"/>
+        <location filename="../../dbg/debugger.cpp" line="985"/>
         <source>Could not delete memory breakpoint %p! (RemoveMemoryBPX)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="953"/>
+        <location filename="../../dbg/debugger.cpp" line="989"/>
         <source>Could not delete hardware breakpoint %p! (DeleteHardwareBreakPoint)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1046"/>
-        <location filename="../../dbg/debugger.cpp" line="1081"/>
+        <location filename="../../dbg/debugger.cpp" line="1082"/>
+        <location filename="../../dbg/debugger.cpp" line="1117"/>
         <source>Trace finished after %llu steps!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1048"/>
-        <location filename="../../dbg/debugger.cpp" line="1083"/>
+        <location filename="../../dbg/debugger.cpp" line="1084"/>
+        <location filename="../../dbg/debugger.cpp" line="1119"/>
         <source>Trace finished after %u steps!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1072"/>
+        <location filename="../../dbg/debugger.cpp" line="1108"/>
         <source>Bad tracing state.
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1119"/>
-        <location filename="../../dbg/debugger.cpp" line="1404"/>
+        <location filename="../../dbg/debugger.cpp" line="1155"/>
+        <location filename="../../dbg/debugger.cpp" line="1440"/>
         <source>??? (GetFileNameFromHandle failed)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1120"/>
+        <location filename="../../dbg/debugger.cpp" line="1156"/>
         <source>Process Started: %p %s
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1162"/>
-        <location filename="../../dbg/debugger.cpp" line="1443"/>
+        <location filename="../../dbg/debugger.cpp" line="1198"/>
+        <location filename="../../dbg/debugger.cpp" line="1479"/>
         <source>TLS Callbacks: %d
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1165"/>
-        <location filename="../../dbg/debugger.cpp" line="1446"/>
+        <location filename="../../dbg/debugger.cpp" line="1201"/>
+        <location filename="../../dbg/debugger.cpp" line="1482"/>
         <source>Failed to get TLS callback addresses!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1175"/>
+        <location filename="../../dbg/debugger.cpp" line="1211"/>
         <source>TLS Callback %d</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1183"/>
-        <location filename="../../dbg/debugger.cpp" line="1466"/>
+        <location filename="../../dbg/debugger.cpp" line="1219"/>
+        <location filename="../../dbg/debugger.cpp" line="1502"/>
         <source>%d invalid TLS callback addresses...
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1190"/>
-        <location filename="../../dbg/debugger.cpp" line="1431"/>
+        <location filename="../../dbg/debugger.cpp" line="1226"/>
+        <location filename="../../dbg/debugger.cpp" line="1467"/>
         <source>entry breakpoint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1241"/>
+        <location filename="../../dbg/debugger.cpp" line="1277"/>
         <source>Process stopped with exit code 0x%X
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1264"/>
+        <location filename="../../dbg/debugger.cpp" line="1300"/>
         <source>Thread</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1273"/>
+        <location filename="../../dbg/debugger.cpp" line="1309"/>
         <source>Thread %X created, Entry: %p
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1303"/>
+        <location filename="../../dbg/debugger.cpp" line="1339"/>
         <source>No threads left to switch to (bug?)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1313"/>
+        <location filename="../../dbg/debugger.cpp" line="1349"/>
         <source>Thread %X exit
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1340"/>
+        <location filename="../../dbg/debugger.cpp" line="1376"/>
         <source>Attach breakpoint reached!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1342"/>
+        <location filename="../../dbg/debugger.cpp" line="1378"/>
         <source>System breakpoint reached!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1365"/>
-        <location filename="../../dbg/debugger.cpp" line="1383"/>
+        <location filename="../../dbg/debugger.cpp" line="1401"/>
+        <location filename="../../dbg/debugger.cpp" line="1419"/>
         <source>Error: Cannot load global initialization script.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1372"/>
-        <location filename="../../dbg/debugger.cpp" line="1390"/>
+        <location filename="../../dbg/debugger.cpp" line="1408"/>
+        <location filename="../../dbg/debugger.cpp" line="1426"/>
         <source>Error: Cannot load debuggee initialization script.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1457"/>
-        <location filename="../../dbg/debugger.cpp" line="1459"/>
+        <location filename="../../dbg/debugger.cpp" line="1493"/>
+        <location filename="../../dbg/debugger.cpp" line="1495"/>
         <source>TLS Callback</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1482"/>
+        <location filename="../../dbg/debugger.cpp" line="1518"/>
         <source>DLL Loaded: %p %s
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1544"/>
+        <location filename="../../dbg/debugger.cpp" line="1584"/>
         <source>DLL Unloaded: %p %s
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1583"/>
+        <location filename="../../dbg/debugger.cpp" line="1627"/>
         <source>DebugString: &quot;%s&quot;
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1624"/>
-        <location filename="../../dbg/debugger.cpp" line="1926"/>
+        <location filename="../../dbg/debugger.cpp" line="1668"/>
+        <location filename="../../dbg/debugger.cpp" line="1979"/>
         <source>DetachDebuggerEx failed...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1626"/>
-        <location filename="../../dbg/debugger.cpp" line="1928"/>
+        <location filename="../../dbg/debugger.cpp" line="1670"/>
+        <location filename="../../dbg/debugger.cpp" line="1981"/>
         <source>Detached!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1633"/>
+        <location filename="../../dbg/debugger.cpp" line="1677"/>
         <source>paused!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1667"/>
+        <location filename="../../dbg/debugger.cpp" line="1711"/>
         <source>SetThreadName(%X, &quot;%s&quot;)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1678"/>
+        <location filename="../../dbg/debugger.cpp" line="1722"/>
         <source>First chance exception on %p (%.8X, %s)!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1680"/>
+        <location filename="../../dbg/debugger.cpp" line="1724"/>
         <source>First chance exception on %p (%.8X)!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1688"/>
+        <location filename="../../dbg/debugger.cpp" line="1732"/>
         <source>Last chance exception on %p (%.8X, %s)!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1690"/>
+        <location filename="../../dbg/debugger.cpp" line="1734"/>
         <source>Last chance exception on %p (%.8X)!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1720"/>
+        <location filename="../../dbg/debugger.cpp" line="1764"/>
         <source>Delete breakpoint failed (BpDelete): %p
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1725"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="332"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="353"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="159"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="180"/>
+        <location filename="../../dbg/debugger.cpp" line="1769"/>
         <source>Delete breakpoint failed (DeleteBPX): %p
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1740"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="381"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="406"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="208"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="233"/>
+        <location filename="../../dbg/debugger.cpp" line="1784"/>
         <source>Could not enable breakpoint %p (SetBPX)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1745"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="386"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="411"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="213"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="238"/>
+        <location filename="../../dbg/debugger.cpp" line="1789"/>
         <source>Could not enable breakpoint %p (BpEnable)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1758"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="439"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="466"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="266"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="293"/>
+        <location filename="../../dbg/debugger.cpp" line="1802"/>
         <source>Could not disable breakpoint %p (BpEnable)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1763"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="447"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="474"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="274"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="301"/>
+        <location filename="../../dbg/debugger.cpp" line="1807"/>
         <source>Could not disable breakpoint %p (DeleteBPX)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1776"/>
+        <location filename="../../dbg/debugger.cpp" line="1820"/>
         <source>Did not enable hardware breakpoint %p (all slots full)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1784"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1039"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="916"/>
+        <location filename="../../dbg/debugger.cpp" line="1828"/>
         <source>Could not enable hardware breakpoint %p (BpEnable)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1789"/>
+        <location filename="../../dbg/debugger.cpp" line="1833"/>
         <source>Could not enable hardware breakpoint %p (SetHardwareBreakPoint)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1801"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1076"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="953"/>
+        <location filename="../../dbg/debugger.cpp" line="1845"/>
         <source>Could not disable hardware breakpoint %p (BpEnable)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1806"/>
+        <location filename="../../dbg/debugger.cpp" line="1850"/>
         <source>Could not disable hardware breakpoint %p (DeleteHardwareBreakPoint)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1820"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1256"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1133"/>
+        <location filename="../../dbg/debugger.cpp" line="1864"/>
         <source>Could not enable memory breakpoint %p (BpEnable)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1825"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1251"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1128"/>
+        <location filename="../../dbg/debugger.cpp" line="1869"/>
         <source>Could not enable memory breakpoint %p (SetMemoryBPXEx)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1837"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1300"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1177"/>
+        <location filename="../../dbg/debugger.cpp" line="1881"/>
         <source>Could not disable memory breakpoint %p (BpEnable)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1842"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1295"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1172"/>
+        <location filename="../../dbg/debugger.cpp" line="1886"/>
         <source>Could not disable memory breakpoint %p (RemoveMemoryBPX)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1878"/>
+        <location filename="../../dbg/debugger.cpp" line="1931"/>
         <source>Delete memory breakpoint failed (BpDelete): %p
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1883"/>
+        <location filename="../../dbg/debugger.cpp" line="1936"/>
         <source>Delete memory breakpoint failed (RemoveMemoryBPX): %p
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1895"/>
+        <location filename="../../dbg/debugger.cpp" line="1948"/>
         <source>Delete hardware breakpoint failed (BpDelete): %p
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="1900"/>
+        <location filename="../../dbg/debugger.cpp" line="1953"/>
         <source>Delete hardware breakpoint failed (DeleteHardwareBreakPoint): %p
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="2454"/>
+        <location filename="../../dbg/debugger.cpp" line="2507"/>
         <source>Error starting process (CreateProcess, %s)!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="2463"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1768"/>
+        <location filename="../../dbg/debugger.cpp" line="2516"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="626"/>
         <source>IsWow64Process failed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="2471"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1774"/>
+        <location filename="../../dbg/debugger.cpp" line="2524"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="632"/>
         <source>Use x32dbg to debug this process!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="2473"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1776"/>
+        <location filename="../../dbg/debugger.cpp" line="2526"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="634"/>
         <source>Use x64dbg to debug this process!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger.cpp" line="2558"/>
+        <location filename="../../dbg/debugger.cpp" line="2611"/>
         <source>Debugging stopped!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="731"/>
         <location filename="../../dbg/debugger_commands.cpp" line="44"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="854"/>
         <location filename="../../dbg/instruction.cpp" line="841"/>
         <location filename="../../dbg/simplescript.cpp" line="654"/>
         <location filename="../../dbg/simplescript.cpp" line="665"/>
@@ -4594,521 +4635,525 @@ Invalid database file (JSON)!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="132"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="133"/>
         <source>The debuggee does not stop after 10 seconds. The debugger state may be corrupted.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="184"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="223"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1098"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1744"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1804"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1867"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="2054"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="2120"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="2801"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="11"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="50"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="975"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1209"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="602"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="662"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="869"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="935"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1623"/>
         <source>Not enough arguments!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="210"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="37"/>
         <source>Invalid type specified!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="215"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="42"/>
         <source>Default breakpoint type set to: %s
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="244"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="71"/>
         <source>Invalid addr: &quot;%s&quot;
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="271"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="98"/>
         <source>Breakpoint already set!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="276"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="103"/>
         <source>Error setting breakpoint at %p! (IsBPXEnabled)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="281"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="108"/>
         <source>Error setting breakpoint at %p! (memread)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="286"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="113"/>
         <source>Error setting breakpoint at %p! (bpnew)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="294"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1683"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="121"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="541"/>
         <source>Error setting breakpoint at %p! (SetBPX)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="297"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="124"/>
         <source>Breakpoint at %p set!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="307"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="134"/>
         <source>No breakpoints to delete!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="315"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="142"/>
         <source>All breakpoints deleted!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="324"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="345"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="151"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="172"/>
         <source>Delete breakpoint failed (bpdel): %p
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="340"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="395"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="456"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="496"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="548"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="570"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="600"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="630"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="660"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="167"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="222"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="283"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="323"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="375"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="397"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="427"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="457"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="487"/>
         <source>No such breakpoint &quot;%s&quot;
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="356"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="183"/>
         <source>Breakpoint deleted!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="367"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="194"/>
         <source>No breakpoints to enable!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="372"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="199"/>
         <source>All breakpoints enabled!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="400"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="227"/>
         <source>Breakpoint already enabled!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="415"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="242"/>
         <source>Breakpoint enabled!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="425"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="252"/>
         <source>No breakpoints to disable!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="430"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="257"/>
         <source>All breakpoints disabled!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="461"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="288"/>
         <source>Breakpoint already disabled!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="477"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="304"/>
         <source>Breakpoint disabled!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="487"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="542"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="560"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="587"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="617"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="647"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="314"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="369"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="387"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="414"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="444"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="474"/>
         <source>not enough arguments!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="501"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="328"/>
         <source>Can&apos;t set %s on breakpoint &quot;%s&quot;
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="510"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="337"/>
         <source>breakpoint name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="515"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="342"/>
         <source>break condition</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="520"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="347"/>
         <source>logging text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="525"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="352"/>
         <source>logging condition</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="530"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="357"/>
         <source>command on hit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="535"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="362"/>
         <source>command condition</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="575"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="402"/>
         <source>Can&apos;t set hit count on breakpoint &quot;%s&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="605"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="665"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="432"/>
         <source>Can&apos;t set fast resume on breakpoint &quot;%1&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="635"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="462"/>
         <source>Can&apos;t set singleshoot on breakpoint &quot;%1&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="831"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="492"/>
+        <source>Can&apos;t set silent on breakpoint &quot;%1&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="708"/>
         <source>argument count mismatch!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="874"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="751"/>
         <source>Invalid type, assuming &apos;x&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="902"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="779"/>
         <source>Invalid size, using 1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="907"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="784"/>
         <source>Address not aligned to %d
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="927"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="804"/>
         <source>Hardware breakpoint already set!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="932"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="809"/>
         <source>Error setting hardware breakpoint (bpnew)!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="937"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="814"/>
         <source>Error setting hardware breakpoint (TitanEngine)!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="940"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="817"/>
         <source>Hardware breakpoint at %p set!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="951"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="828"/>
         <source>No hardware breakpoints to delete!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="956"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="833"/>
         <source>All hardware breakpoints deleted!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="965"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="983"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="842"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="860"/>
         <source>Delete hardware breakpoint failed: %p (BpDelete)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="970"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="988"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="847"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="865"/>
         <source>Delete hardware breakpoint failed: %p (DeleteHardwareBreakPoint)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="978"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1021"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1066"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="855"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="898"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="943"/>
         <source>No such hardware breakpoint &quot;%s&quot;
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="991"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="868"/>
         <source>Hardware breakpoint deleted!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1008"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="885"/>
         <source>No hardware breakpoints to enable!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1013"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="890"/>
         <source>All hardware breakpoints enabled!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1026"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="903"/>
         <source>Hardware breakpoint already enabled!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1034"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="911"/>
         <source>Could not enable hardware breakpoint %p (SetHardwareBreakpoint)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1042"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="919"/>
         <source>Hardware breakpoint enabled!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1053"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="930"/>
         <source>No hardware breakpoints to disable!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1058"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="935"/>
         <source>All hardware breakpoints disabled!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1071"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="948"/>
         <source>Hardware breakpoint already disabled!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1081"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="958"/>
         <source>Could not disable hardware breakpoint %p (DeleteHardwareBreakpoint)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1084"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="961"/>
         <source>Hardware breakpoint disabled!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1132"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1009"/>
         <source>Invalid type (argument ignored)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1146"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1023"/>
         <source>Memory breakpoint already set!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1151"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1028"/>
         <source>Error setting memory breakpoint! (BpNew)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1156"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1033"/>
         <source>Error setting memory breakpoint! (SetMemoryBPXEx)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1159"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1036"/>
         <source>Memory breakpoint at %p set!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1170"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1047"/>
         <source>no memory breakpoints to delete!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1175"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1052"/>
         <source>All memory breakpoints deleted!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1186"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1206"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1063"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1083"/>
         <source>Delete memory breakpoint failed: %p (BpDelete)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1191"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1211"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1068"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1088"/>
         <source>Delete memory breakpoint failed: %p (RemoveMemoryBPX)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1199"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1238"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1283"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1076"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1115"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1160"/>
         <source>No such memory breakpoint &quot;%s&quot;
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1214"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1091"/>
         <source>Memory breakpoint deleted!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1225"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1102"/>
         <source>No memory breakpoints to enable!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1230"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1107"/>
         <source>All memory breakpoints enabled!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1243"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1120"/>
         <source>Memory memory already enabled!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1259"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1136"/>
         <source>Memory breakpoint enabled!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1270"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1147"/>
         <source>No memory breakpoints to disable!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1275"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1152"/>
         <source>All memory breakpoints disabled!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1288"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1165"/>
         <source>Memory breakpoint already disabled!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1303"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1180"/>
         <source>Memory breakpoint disabled!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1317"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1199"/>
         <source>Something went wrong...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1332"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="190"/>
         <source>Skipped INT3!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1406"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="264"/>
         <source>Debugger hidden</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1408"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="266"/>
         <source>Something went wrong</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1449"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="307"/>
         <source>Run to party is busy.
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1481"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1615"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1895"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1242"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="339"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="473"/>
         <source>Not enough arguments</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1486"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="344"/>
         <source>Trace already active</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1494"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="352"/>
         <source>Invalid expression &quot;%s&quot;
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1567"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="425"/>
         <source>VirtualAllocEx failed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1592"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="450"/>
         <source>$lastalloc is zero, provide a page address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1599"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="457"/>
         <source>VirtualFreeEx failed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1630"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="488"/>
         <source>Invalid address specified</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1639"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="497"/>
         <source>Memset failed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1641"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="499"/>
         <source>Memory %p (size: %.8X) set to %.2X
 </source>
         <translation type="unfinished"></translation>
@@ -5116,569 +5161,582 @@ Invalid database file (JSON)!</source>
     <message>
         <location filename="../../dbg/database.cpp" line="132"/>
         <location filename="../../dbg/database.cpp" line="245"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1656"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="514"/>
         <source>%ums
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1671"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="529"/>
         <source>Program is not running</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1677"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1943"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="535"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="757"/>
         <source>Error suspending thread</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1686"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1694"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1965"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="544"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="552"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="779"/>
         <source>Error resuming thread</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1707"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="565"/>
         <source>Error loading Scylla.dll!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1715"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="573"/>
         <source>Could not find export &apos;ScyllaStartGui&apos; inside Scylla.dll</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1732"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="590"/>
         <source>Scylla is already loaded</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1762"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="620"/>
         <source>Could not open process %X!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1783"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="641"/>
         <source>Could not get module filename %X!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1810"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1818"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1835"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="668"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="676"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="693"/>
         <source>Invalid address &quot;%s&quot;!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1844"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="702"/>
         <source>Invalid stack address!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1853"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="711"/>
         <source>Exception will be swallowed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1858"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="716"/>
         <source>Exception will be thrown in the program</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1887"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1234"/>
         <source>Dll breakpoint set on &quot;%s&quot;!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1900"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1251"/>
         <source>Failed to remove DLL breakpoint...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1903"/>
+        <location filename="../../dbg/breakpoint_commands.cpp" line="1254"/>
         <source>DLL breakpoint removed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1915"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1937"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1959"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="1985"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="2102"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="2129"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="729"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="751"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="773"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="799"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="917"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="944"/>
         <source>Invalid thread %X
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1924"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="738"/>
         <source>Thread switched!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1946"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="760"/>
         <source>Thread suspended</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1968"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="782"/>
         <source>Thread resumed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1992"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="806"/>
         <source>Thread terminated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="1995"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="809"/>
         <source>Error terminating thread!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2017"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="831"/>
         <source>Create thread failed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2026"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="840"/>
         <source>Thread %X created at %s %p(Argument=%llX)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2028"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="842"/>
         <source>Thread %X created at %s %p(Argument=%X)
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2036"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="851"/>
         <source>%d/%d thread(s) suspended
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2044"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="859"/>
         <source>%d/%d thread(s) resumed
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2079"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="2096"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="894"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="911"/>
         <source>Unknown priority value, read the help!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2108"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="923"/>
         <source>Error setting thread priority</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2111"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="926"/>
         <source>Thread priority changed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2135"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="950"/>
         <source>Failed to change the name for thread %X
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2139"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="954"/>
         <source>Thread name set to &quot;%s&quot;!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2141"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="956"/>
         <source>Thread name changed from &quot;%s&quot; to &quot;%s&quot;!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2148"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="963"/>
         <source>This may take very long, depending on your network connection and data in the debug directory...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2160"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="2213"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="975"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1028"/>
         <source>Done! See symbol log for more information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2167"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="982"/>
         <source>Invalid module &quot;%s&quot;!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2173"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="988"/>
         <source>GetModuleFileNameExA failed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2179"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="994"/>
         <source>SymGetSearchPath failed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2188"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1003"/>
         <source>SymSetSearchPath (1) failed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2194"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1009"/>
         <source>SymUnloadModule64 failed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2201"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1016"/>
         <source>SymLoadModuleEx failed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2209"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1024"/>
         <location filename="../../dbg/symbolinfo.cpp" line="212"/>
         <source>SymSetSearchPathW (2) failed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2226"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="2248"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="2325"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1041"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1063"/>
         <source>Error getting JIT auto %s
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2239"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1054"/>
         <source>Unknown JIT auto entry type. Use x64 or x32 as parameter.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2246"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="2322"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1061"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1140"/>
         <source>Error using x64 arg the debugger is not a WOW64 process
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2254"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="2305"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1069"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1123"/>
         <source>Unknown JIT auto entry type. Use x64 or x32 as parameter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2257"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1072"/>
         <source>JIT auto %s: %s
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2268"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1083"/>
         <source>Error run the debugger as Admin to setjitauto
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2273"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1088"/>
         <source>Error setting JIT Auto. Use ON:1 or OFF:0 arg or x64/x32, ON:1 or OFF:0.
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2284"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1099"/>
         <source>Error unknown parameters. Use ON:1 or OFF:0</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2290"/>
-        <source>Error setting JIT auto %s
-</source>
+        <location filename="../../dbg/debugger_commands.cpp" line="1106"/>
+        <source>Error setting JIT auto x64</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2315"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1108"/>
+        <source>Error setting JIT auto x32</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../dbg/debugger_commands.cpp" line="1133"/>
         <source>Error unknown parameters. Use x86 or x64 and ON:1 or OFF:0
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2331"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1144"/>
+        <source>Error getting JIT auto x64</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../dbg/debugger_commands.cpp" line="1146"/>
+        <source>Error getting JIT auto x32</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../dbg/debugger_commands.cpp" line="1153"/>
         <source>Error unknown parameters use x86 or x64, ON/1 or OFF/0
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2335"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1157"/>
         <source>New JIT auto %s: %s
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2347"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1169"/>
         <source>Error run the debugger as Admin to setjit
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2357"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="2374"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="2393"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="2414"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="2424"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="2458"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1179"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1196"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1215"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1236"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1246"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1280"/>
         <source>Error setting JIT %s
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2368"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="2408"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1190"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1230"/>
         <source>Error there is no old JIT entry stored.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2437"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1259"/>
         <source>New OLD JIT stored: %s
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2448"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="2509"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1270"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1331"/>
         <source>Unknown JIT entry type. Use OLD, x64 or x32 as parameter.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2456"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="2516"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1278"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1338"/>
         <source>Error using x64 arg. The debugger is not a WOW64 process
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2464"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1286"/>
         <source>Error unknown parameters. Use old, oldsave, restore, x86 or x64 as parameter.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2468"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1290"/>
         <source>New JIT %s: %s
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2482"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="2518"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1304"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1340"/>
         <source>Error getting JIT %s
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2494"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1316"/>
         <source>Error: there is not an OLD JIT entry stored yet.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2499"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1321"/>
         <source>OLD JIT entry stored: %s
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2523"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1345"/>
         <source>JIT %s: %s
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2535"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1357"/>
         <source>Error: using an address as arg1
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2541"/>
-        <location filename="../../dbg/debugger_commands.cpp" line="2569"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1363"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1391"/>
         <source>Error getting rights of page: %s
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2545"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1367"/>
         <source>Page: %p, Rights: %s
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2557"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1379"/>
         <source>Error: Using an address as arg1 and as arg2: Execute, ExecuteRead, ExecuteReadWrite, ExecuteWriteCopy, NoAccess, ReadOnly, ReadWrite, WriteCopy. You can add a G at first for add PAGE GUARD, example: GReadOnly
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2563"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1385"/>
         <source>Error: Set rights of %p with Rights: %s
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2577"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1399"/>
         <source>New rights of %p: %s
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2586"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1408"/>
         <source>Error: you must specify the name of the DLL to load
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2598"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1420"/>
         <source>Error: couldn&apos;t allocate memory in debuggee</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2604"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1426"/>
         <source>Error: couldn&apos;t write process memory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2618"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1440"/>
         <source>Error: couldn&apos;t get kernel32:LoadLibraryA</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2686"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1508"/>
         <source>Error allocating memory for cmdline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2689"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1511"/>
         <source>Error converting UNICODE cmdline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2692"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1514"/>
         <source>Error reading PEB base addres</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2695"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1517"/>
         <source>Error reading PEB -&gt; ProcessParameters -&gt; CommandLine UNICODE_STRING</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2698"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1520"/>
         <source>Error reading PEB -&gt; ProcessParameters pointer address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2701"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1523"/>
         <source>Error Getting remote PEB address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2704"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1526"/>
         <source>Error Getting command line base address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2707"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1529"/>
         <source>Error checking the pattern of the commandline stored</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2710"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1532"/>
         <source>Error writing the new command line stored</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2713"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1535"/>
         <source>Error getting getcommandline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2716"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1538"/>
         <source>Error allocating the page with UNICODE and ANSI command lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2719"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1541"/>
         <source>Error writing the ANSI command line in the page</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2722"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1544"/>
         <source>Error writing the UNICODE command line in the page</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2725"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1547"/>
         <source>Error writing command line UNICODE in PEB</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2729"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1551"/>
         <source>Error getting cmdline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2736"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1558"/>
         <source> (Address: %p)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2752"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1574"/>
         <source>Command line: %s
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2765"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1587"/>
         <source>Error: write the arg1 with the new command line of the process debugged</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2779"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1601"/>
         <source>New command line: %s
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2807"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1629"/>
         <source>Stack is now freezed
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/debugger_commands.cpp" line="2809"/>
+        <location filename="../../dbg/debugger_commands.cpp" line="1631"/>
         <source>Stack is now unfreezed
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../dbg/error.cpp" line="20"/>
-        <location filename="../../dbg/exception.cpp" line="20"/>
+        <location filename="../../dbg/exception.cpp" line="21"/>
         <source>Invalid line: &quot;%s&quot;
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../dbg/error.cpp" line="26"/>
-        <location filename="../../dbg/exception.cpp" line="26"/>
+        <location filename="../../dbg/exception.cpp" line="27"/>
         <source>Failed to convert number &quot;%s&quot;
 </source>
         <translation type="unfinished"></translation>
@@ -5918,6 +5976,12 @@ Invalid database file (JSON)!</source>
         <location filename="../../dbg/instruction.cpp" line="763"/>
         <location filename="../../dbg/instruction.cpp" line="889"/>
         <source>Variable size not supported.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../dbg/instruction.cpp" line="210"/>
+        <source>invalid hex string &quot;%s&quot; (length not divisible by 2)
+</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6471,6 +6535,7 @@ Invalid database file (JSON)!</source>
     </message>
     <message>
         <location filename="../../dbg/instruction.cpp" line="2456"/>
+        <location filename="../../dbg/instruction.cpp" line="2892"/>
         <source>invalid argument</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7083,296 +7148,306 @@ Invalid database file (JSON)!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="342"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="353"/>
         <source>command cut at ~%d characters
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="385"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="396"/>
         <source>[Script DLL] Calling export &quot;AsyncStart&quot;...
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="387"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="398"/>
         <source>[Script DLL] &quot;AsyncStart&quot; returned!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="389"/>
-        <location filename="../../dbg/x64_dbg.cpp" line="429"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="400"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="440"/>
         <source>[Script DLL] Calling FreeLibrary...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="391"/>
-        <location filename="../../dbg/x64_dbg.cpp" line="431"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="402"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="442"/>
         <source>success!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="393"/>
-        <location filename="../../dbg/x64_dbg.cpp" line="433"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="404"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="444"/>
         <source>failure (%08X)...
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="404"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="415"/>
         <source>[Script DLL] Loading Script DLL &quot;%s&quot;...
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="409"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="420"/>
         <source>[Script DLL] DLL loaded on 0x%p!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="414"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="425"/>
         <source>[Script DLL] Creating thread to call the export &quot;AsyncStart&quot;...
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="422"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="433"/>
         <source>[Script DLL] Calling export &quot;Start&quot;...
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="424"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="435"/>
         <source>[Script DLL] &quot;Start&quot; returned!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="427"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="438"/>
         <source>[Script DLL] Failed to find the exports &quot;AsyncStart&quot; or &quot;Start&quot; (%08X)!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="437"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="448"/>
         <source>[Script DLL] LoadLibary failed (%08X)!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="449"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="460"/>
         <source>Initializing wait objects...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="451"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="462"/>
         <source>Initializing debugger...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="453"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="464"/>
         <source>Initializing debugger functions...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="455"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="466"/>
         <source>Setting JSON memory management functions...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="457"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="468"/>
         <source>Initializing capstone...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="459"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="470"/>
         <source>Initializing Yara...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="462"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="473"/>
         <source>Getting directory information...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="487"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="498"/>
         <source>Mnemonic help database loaded!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="489"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="500"/>
         <source>Failed to load mnemonic help database...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="492"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="503"/>
         <source>Failed to read mnemonic help database...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="496"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="507"/>
         <source>Error codes database loaded!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="498"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="509"/>
         <source>Failed to load error codes...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="502"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="513"/>
         <source>Exception codes database loaded!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="504"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="515"/>
         <source>Failed to load exception codes...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="534"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="519"/>
+        <source>NTSTATUS codes database loaded!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../dbg/x64_dbg.cpp" line="521"/>
+        <source>Failed to load NTSTATUS codes...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../dbg/x64_dbg.cpp" line="551"/>
         <source>It is strongly discouraged to use symbol servers in your path directly (use the store option instead).
 
 Do you want me to fix this?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="541"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="558"/>
         <source>Symbol Path: %s
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="543"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="560"/>
         <source>Allocating message stack...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="547"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="564"/>
         <source>Initializing global script variables...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="549"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="566"/>
         <source>Registering debugger commands...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="551"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="568"/>
         <source>Registering GUI command handler...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="553"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="570"/>
         <source>Registering expression functions...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="555"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="572"/>
         <source>Default</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="560"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="577"/>
         <source>Registering Script DLL command handler...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="561"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="578"/>
         <source>Script DLL</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="564"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="581"/>
         <source>Starting command loop...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="570"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="587"/>
         <source>Loading plugins...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="572"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="589"/>
         <source>Handling command line...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="585"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="602"/>
         <source>Reading notes file...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="590"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="607"/>
         <source>Initialization successful!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="600"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="617"/>
         <source>Stopping running debuggee...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="605"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="622"/>
         <source>The debuggee does not close after 10 seconds. Probably the debugger state has been corrupted.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="607"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="624"/>
         <source>Aborting scripts...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="602"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="619"/>
         <source>Waiting for the debuggee to be stopped...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="609"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="626"/>
         <source>Unloading plugins...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="611"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="628"/>
         <source>Stopping command thread...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="615"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="632"/>
         <source>Cleaning up allocated data...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="620"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="637"/>
         <source>Checking for mem leaks...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="622"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="639"/>
         <source>%d memory leak(s) found!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="625"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="642"/>
         <source>Cleaning up wait objects...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="627"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="644"/>
         <source>Cleaning up debugger threads...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="629"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="646"/>
         <source>Saving notes...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../dbg/x64_dbg.cpp" line="639"/>
+        <location filename="../../dbg/x64_dbg.cpp" line="656"/>
         <source>Exit signal processed successfully!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8064,65 +8139,80 @@ Do you want me to fix this?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/HandlesView.cpp" line="51"/>
+        <location filename="../Src/Gui/HandlesView.cpp" line="38"/>
+        <source>Handles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/HandlesView.cpp" line="39"/>
+        <source>TCP Connections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/HandlesView.cpp" line="40"/>
+        <source>Privileges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/HandlesView.cpp" line="50"/>
         <source>&amp;Refresh</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/HandlesView.cpp" line="54"/>
+        <location filename="../Src/Gui/HandlesView.cpp" line="53"/>
         <source>Close handle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/HandlesView.cpp" line="56"/>
-        <location filename="../Src/Gui/HandlesView.cpp" line="153"/>
+        <location filename="../Src/Gui/HandlesView.cpp" line="55"/>
+        <location filename="../Src/Gui/HandlesView.cpp" line="152"/>
         <source>Disable Privilege: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/HandlesView.cpp" line="58"/>
-        <location filename="../Src/Gui/HandlesView.cpp" line="158"/>
+        <location filename="../Src/Gui/HandlesView.cpp" line="57"/>
+        <location filename="../Src/Gui/HandlesView.cpp" line="157"/>
         <source>Enable Privilege: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/HandlesView.cpp" line="60"/>
+        <location filename="../Src/Gui/HandlesView.cpp" line="59"/>
         <source>Disable all privileges</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/HandlesView.cpp" line="62"/>
+        <location filename="../Src/Gui/HandlesView.cpp" line="61"/>
         <source>Enable all privileges</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/HandlesView.cpp" line="74"/>
+        <location filename="../Src/Gui/HandlesView.cpp" line="73"/>
         <source>TCP Connection enumeration is only available on Windows Vista or greater.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/HandlesView.cpp" line="117"/>
-        <location filename="../Src/Gui/HandlesView.cpp" line="132"/>
-        <location filename="../Src/Gui/HandlesView.cpp" line="164"/>
+        <location filename="../Src/Gui/HandlesView.cpp" line="116"/>
+        <location filename="../Src/Gui/HandlesView.cpp" line="131"/>
+        <location filename="../Src/Gui/HandlesView.cpp" line="163"/>
         <source>&amp;Copy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/HandlesView.cpp" line="147"/>
-        <location filename="../Src/Gui/HandlesView.cpp" line="194"/>
-        <location filename="../Src/Gui/HandlesView.cpp" line="202"/>
-        <location filename="../Src/Gui/HandlesView.cpp" line="280"/>
+        <location filename="../Src/Gui/HandlesView.cpp" line="146"/>
+        <location filename="../Src/Gui/HandlesView.cpp" line="193"/>
+        <location filename="../Src/Gui/HandlesView.cpp" line="201"/>
+        <location filename="../Src/Gui/HandlesView.cpp" line="279"/>
         <source>Unknown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/HandlesView.cpp" line="151"/>
-        <location filename="../Src/Gui/HandlesView.cpp" line="287"/>
+        <location filename="../Src/Gui/HandlesView.cpp" line="150"/>
+        <location filename="../Src/Gui/HandlesView.cpp" line="286"/>
         <source>Enabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/HandlesView.cpp" line="283"/>
+        <location filename="../Src/Gui/HandlesView.cpp" line="282"/>
         <source>Disabled</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10281,37 +10371,42 @@ Do you want to apply these patches anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="521"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="507"/>
+        <source>Show Watch Labels in Side Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="528"/>
         <source>Misc</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="533"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="540"/>
         <source>Symbol Store:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="540"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="547"/>
         <source>Symbol Path:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="561"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="568"/>
         <source>Set x64dbg as Just In Time Debugger</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="570"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="577"/>
         <source>JIT:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="586"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="593"/>
         <source>Confirm before attaching</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="593"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="600"/>
         <source>&lt;font color=&quot;red&quot;&gt;DIE SCUM!&lt;/font&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10321,47 +10416,47 @@ Do you want to apply these patches anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="600"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="607"/>
         <source>Search Engine URL</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="646"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="653"/>
         <source>Save</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.ui" line="656"/>
+        <location filename="../Src/Gui/SettingsDialog.ui" line="663"/>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.cpp" line="232"/>
+        <location filename="../Src/Gui/SettingsDialog.cpp" line="234"/>
         <source>&lt;font color=&quot;red&quot;&gt;&lt;b&gt;Warning&lt;/b&gt;&lt;/font&gt;: Run the debugger as Admin to enable JIT.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.cpp" line="382"/>
+        <location filename="../Src/Gui/SettingsDialog.cpp" line="385"/>
         <source>Settings saved!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.cpp" line="466"/>
+        <location filename="../Src/Gui/SettingsDialog.cpp" line="469"/>
         <source>ERROR NOT FOUND OLD JIT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.cpp" line="466"/>
+        <location filename="../Src/Gui/SettingsDialog.cpp" line="469"/>
         <source>NOT FOUND OLD JIT ENTRY STORED, USE SETJIT COMMAND</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.cpp" line="595"/>
+        <location filename="../Src/Gui/SettingsDialog.cpp" line="598"/>
         <source>Question</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/SettingsDialog.cpp" line="595"/>
+        <location filename="../Src/Gui/SettingsDialog.cpp" line="598"/>
         <source>Are you sure you want to add %.8X?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10993,31 +11088,31 @@ Do you want to apply these patches anyway?</source>
     </message>
     <message>
         <location filename="../Src/Gui/WatchView.cpp" line="108"/>
-        <location filename="../Src/Gui/WatchView.cpp" line="155"/>
+        <location filename="../Src/Gui/WatchView.cpp" line="159"/>
         <source>Disabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/WatchView.cpp" line="111"/>
-        <location filename="../Src/Gui/WatchView.cpp" line="157"/>
+        <location filename="../Src/Gui/WatchView.cpp" line="161"/>
         <source>Changed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/WatchView.cpp" line="114"/>
-        <location filename="../Src/Gui/WatchView.cpp" line="159"/>
+        <location filename="../Src/Gui/WatchView.cpp" line="163"/>
         <source>Is true</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/WatchView.cpp" line="117"/>
-        <location filename="../Src/Gui/WatchView.cpp" line="160"/>
+        <location filename="../Src/Gui/WatchView.cpp" line="164"/>
         <source>Is false</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/WatchView.cpp" line="120"/>
-        <location filename="../Src/Gui/WatchView.cpp" line="158"/>
+        <location filename="../Src/Gui/WatchView.cpp" line="162"/>
         <source>Not changed</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11042,24 +11137,24 @@ Do you want to apply these patches anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/WatchView.cpp" line="154"/>
+        <location filename="../Src/Gui/WatchView.cpp" line="158"/>
         <source>Watchdog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/WatchView.cpp" line="199"/>
-        <location filename="../Src/Gui/WatchView.cpp" line="222"/>
+        <location filename="../Src/Gui/WatchView.cpp" line="200"/>
+        <location filename="../Src/Gui/WatchView.cpp" line="223"/>
         <source>Enter the expression to watch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/WatchView.cpp" line="199"/>
-        <location filename="../Src/Gui/WatchView.cpp" line="222"/>
+        <location filename="../Src/Gui/WatchView.cpp" line="200"/>
+        <location filename="../Src/Gui/WatchView.cpp" line="223"/>
         <source>Example: [EAX]</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/WatchView.cpp" line="214"/>
+        <location filename="../Src/Gui/WatchView.cpp" line="215"/>
         <source>Enter the name of the watch variable</source>
         <translation type="unfinished"></translation>
     </message>
