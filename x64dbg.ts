@@ -9786,157 +9786,167 @@ Do you want to apply these patches anyway?</source>
 <context>
     <name>RegistersView</name>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="439"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="440"/>
         <source>Increment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="440"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="441"/>
         <source>Decrement</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="441"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="442"/>
         <source>Zero</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="442"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="443"/>
         <source>Set to 1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="443"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="444"/>
         <source>Modify value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="445"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="446"/>
         <source>Toggle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="446"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="447"/>
         <source>Copy value to clipboard</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="447"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="448"/>
         <source>Copy Symbol Value to Clipboard</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="448"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="449"/>
         <source>Copy all registers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="449"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="450"/>
         <source>Follow in Disassembler</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="450"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="451"/>
         <source>Follow in Dump</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="451"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="452"/>
         <source>Follow in Stack</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="452"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="453"/>
         <source>Increment x87 Stack</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="453"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="454"/>
         <source>Decrement x87 Stack</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="454"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="455"/>
         <source>Change view</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="455"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="456"/>
         <source>Increase 4</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="455"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="456"/>
         <source>Increase 8</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="456"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="457"/>
         <source>Decrease 4</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="456"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="457"/>
         <source>Decrease 8</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="457"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="458"/>
         <source>Push</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="458"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="459"/>
         <source>Pop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="459"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="460"/>
         <source>Highlight</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="1317"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="1251"/>
+        <source>Follow in &amp;Dump</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/RegistersView.cpp" line="1256"/>
+        <source>Dump %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/RegistersView.cpp" line="1334"/>
         <source>Hide FPU</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="1319"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="1336"/>
         <source>Show FPU</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="1932"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="1949"/>
         <source>Edit YMM register</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="1942"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="1959"/>
         <source>Edit XMM register</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="1953"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="1970"/>
         <source>Edit FPU register</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="2011"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="2028"/>
         <source>ERROR CONVERTING TO HEX</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="1920"/>
-        <location filename="../Src/Gui/RegistersView.cpp" line="1922"/>
-        <location filename="../Src/Gui/RegistersView.cpp" line="1924"/>
-        <location filename="../Src/Gui/RegistersView.cpp" line="1926"/>
-        <location filename="../Src/Gui/RegistersView.cpp" line="1928"/>
-        <location filename="../Src/Gui/RegistersView.cpp" line="2024"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="1937"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="1939"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="1941"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="1943"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="1945"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="2041"/>
         <source>Edit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/RegistersView.cpp" line="2450"/>
+        <location filename="../Src/Gui/RegistersView.cpp" line="2482"/>
         <source>Set Hardware Breakpoint on %1</source>
         <translation type="unfinished"></translation>
     </message>
