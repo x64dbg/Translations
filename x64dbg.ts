@@ -55,37 +55,37 @@
     </message>
     <message>
         <location filename="../Src/Gui/AppearanceDialog.ui" line="578"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="411"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="410"/>
         <source>General Tables:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/AppearanceDialog.ui" line="597"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="418"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="417"/>
         <source>Disassembly:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/AppearanceDialog.ui" line="616"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="500"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="499"/>
         <source>HexDump:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/AppearanceDialog.ui" line="635"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="508"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="507"/>
         <source>Stack:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/AppearanceDialog.ui" line="654"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="459"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="458"/>
         <source>Registers:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/AppearanceDialog.ui" line="673"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="526"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="525"/>
         <source>HexEdit:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -296,488 +296,488 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="259"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="258"/>
         <source>Select Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="330"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="329"/>
         <source>Settings saved!
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="412"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="460"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="469"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="501"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="509"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="527"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="411"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="459"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="468"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="500"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="508"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="526"/>
         <source>Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="413"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="412"/>
         <source>Header Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="413"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="418"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="456"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="460"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="502"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="510"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="528"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="536"/>
+        <source>Background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/AppearanceDialog.cpp" line="414"/>
         <location filename="../Src/Gui/AppearanceDialog.cpp" line="419"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="457"/>
         <location filename="../Src/Gui/AppearanceDialog.cpp" line="461"/>
         <location filename="../Src/Gui/AppearanceDialog.cpp" line="503"/>
         <location filename="../Src/Gui/AppearanceDialog.cpp" line="511"/>
         <location filename="../Src/Gui/AppearanceDialog.cpp" line="529"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="537"/>
-        <source>Background</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="415"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="420"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="462"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="504"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="512"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="530"/>
         <source>Selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="416"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="415"/>
         <source>Separators</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="421"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="420"/>
         <source>Bytes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="422"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="502"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="421"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="501"/>
         <source>Modified Bytes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="423"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="422"/>
         <source>Restored Bytes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="425"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="543"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="424"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="542"/>
         <source>RIP</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="427"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="543"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="426"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="542"/>
         <source>EIP</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="429"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="448"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="428"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="447"/>
         <source>Breakpoints</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="430"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="429"/>
         <source>Hardware Breakpoints</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="431"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="450"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="430"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="449"/>
         <source>Bookmarks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="432"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="431"/>
         <source>Comments</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="433"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="432"/>
         <source>Automatic Comments</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="434"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="433"/>
         <source>Mnemonic Brief Comments</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="435"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="506"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="520"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="434"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="505"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="519"/>
         <source>Labels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="436"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="473"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="505"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="518"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="435"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="472"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="504"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="517"/>
         <source>Addresses</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="437"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="519"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="436"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="518"/>
         <source>Selected Addresses</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="437"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="450"/>
+        <source>Conditional Jump Lines (jump)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/AppearanceDialog.cpp" line="438"/>
         <location filename="../Src/Gui/AppearanceDialog.cpp" line="451"/>
-        <source>Conditional Jump Lines (jump)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="439"/>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="452"/>
         <source>Conditional Jump Lines (no jump)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="440"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="439"/>
         <source>Unconditional Jump Lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="441"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="440"/>
         <source>Traced line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="442"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="441"/>
         <source>Function Lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="443"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="442"/>
         <source>Loop Lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="445"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="444"/>
         <source>SideBar:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="446"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="445"/>
         <source>Register Labels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="447"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="446"/>
         <source>Bullets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="449"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="448"/>
         <source>Disabled Breakpoints</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="453"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="452"/>
         <source>Unconditional Jump Lines (jump)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="454"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="453"/>
         <source>Unconditional Jump Lines (no jump)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="455"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="454"/>
         <source>Jump Lines (executing)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="456"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="455"/>
         <source>Code Folding Checkbox Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="463"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="462"/>
         <source>Modified Registers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="464"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="463"/>
         <source>Register Names</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="465"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="464"/>
         <source>Argument Register Names</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="466"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="465"/>
         <source>Extra Information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="468"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="467"/>
         <source>Instructions:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="470"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="469"/>
         <source>Highlighting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="471"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="470"/>
         <source>Commas</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="472"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="471"/>
         <source>Prefixes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="474"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="473"/>
         <source>Values</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="475"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="474"/>
         <source>Mnemonics</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="476"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="475"/>
         <source>Push/Pops</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="477"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="476"/>
         <source>Calls</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="478"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="477"/>
         <source>Returns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="479"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="478"/>
         <source>Conditional Jumps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="480"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="479"/>
         <source>Unconditional Jumps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="481"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="480"/>
         <source>NOPs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="482"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="481"/>
         <source>FAR</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="483"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="482"/>
         <source>INT3s</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="484"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="483"/>
         <source>Unusual Instructions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="485"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="484"/>
         <source>General Registers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="486"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="485"/>
         <source>FPU Registers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="487"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="486"/>
         <source>MMX Registers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="488"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="487"/>
         <source>XMM Registers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="489"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="488"/>
         <source>YMM Registers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="490"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="489"/>
         <source>ZMM Registers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="491"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="490"/>
         <source>Memory Sizes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="492"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="491"/>
         <source>Memory Segments</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="493"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="492"/>
         <source>Memory Brackets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="494"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="493"/>
         <source>Memory Stack Brackets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="495"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="494"/>
         <source>Memory Base Registers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="496"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="495"/>
         <source>Memory Index Registers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="497"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="496"/>
         <source>Memory Scales</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="498"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="497"/>
         <source>Memory Operators (+/-/*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="510"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="509"/>
         <source>Inactive Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="514"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="513"/>
         <source>RSP</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="516"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="515"/>
         <source>ESP</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="521"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="520"/>
         <source>Return To Comment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="522"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="521"/>
         <source>SEH Chain Comment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="523"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="522"/>
         <source>User Stack Frame Line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="524"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="523"/>
         <source>System Stack Frame Line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="528"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="527"/>
         <source>Wildcards</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="532"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="531"/>
         <source>Graph</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="533"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="532"/>
         <source>Unconditional branch line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="534"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="533"/>
         <source>True branch line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="535"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="534"/>
         <source>False branch line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="536"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="535"/>
         <source>Terminal node shadow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="539"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="538"/>
         <source>Other:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="540"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="539"/>
         <source>Current Thread</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="541"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="540"/>
         <source>Watch (When Watchdog is Triggered)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="542"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="541"/>
         <source>Memory Map Breakpoint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="543"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="542"/>
         <source>Memory Map %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="544"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="543"/>
         <source>Memory Map Section Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="545"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="544"/>
         <source>Search Highlight Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="566"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="565"/>
         <source>NOT FOUND IN CONFIG!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="570"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="569"/>
         <source>&amp;Default Value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AppearanceDialog.cpp" line="573"/>
+        <location filename="../Src/Gui/AppearanceDialog.cpp" line="572"/>
         <source>&amp;Current Setting</source>
         <translation type="unfinished"></translation>
     </message>
@@ -830,44 +830,44 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AssembleDialog.cpp" line="83"/>
+        <location filename="../Src/Gui/AssembleDialog.cpp" line="82"/>
         <source>empty instruction</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AssembleDialog.cpp" line="123"/>
+        <location filename="../Src/Gui/AssembleDialog.cpp" line="122"/>
         <source>&lt;font color=&apos;orange&apos;&gt;&lt;b&gt;Instruction encoding error: %1&lt;/b&gt;&lt;/font&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AssembleDialog.cpp" line="131"/>
+        <location filename="../Src/Gui/AssembleDialog.cpp" line="130"/>
         <source>&lt;font color=&apos;red&apos;&gt;&lt;b&gt;Instruction bigger by %1 %2...&lt;/b&gt;&lt;/font&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AssembleDialog.cpp" line="133"/>
-        <location filename="../Src/Gui/AssembleDialog.cpp" line="143"/>
+        <location filename="../Src/Gui/AssembleDialog.cpp" line="132"/>
+        <location filename="../Src/Gui/AssembleDialog.cpp" line="142"/>
         <source>byte</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AssembleDialog.cpp" line="133"/>
-        <location filename="../Src/Gui/AssembleDialog.cpp" line="143"/>
+        <location filename="../Src/Gui/AssembleDialog.cpp" line="132"/>
+        <location filename="../Src/Gui/AssembleDialog.cpp" line="142"/>
         <source>bytes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AssembleDialog.cpp" line="141"/>
+        <location filename="../Src/Gui/AssembleDialog.cpp" line="140"/>
         <source>&lt;font color=&apos;#00cc00&apos;&gt;&lt;b&gt;Instruction smaller by %1 %2...&lt;/b&gt;&lt;/font&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AssembleDialog.cpp" line="151"/>
+        <location filename="../Src/Gui/AssembleDialog.cpp" line="150"/>
         <source>&lt;font color=&apos;#00cc00&apos;&gt;&lt;b&gt;Instruction is same size!&lt;/b&gt;&lt;/font&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/AssembleDialog.cpp" line="159"/>
+        <location filename="../Src/Gui/AssembleDialog.cpp" line="158"/>
         <source>&lt;font color=&apos;#00cc00&apos;&gt;&lt;b&gt;Instruction encoded successfully!&lt;/b&gt;&lt;/font&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1775,10 +1775,10 @@
         <location filename="../Src/Gui/CPUDisassembly.cpp" line="779"/>
         <location filename="../Src/Gui/CPUDisassembly.cpp" line="803"/>
         <location filename="../Src/Gui/CPUDisassembly.cpp" line="820"/>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="930"/>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="983"/>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1368"/>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1415"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="947"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1000"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1385"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1432"/>
         <source>Error!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1804,73 +1804,73 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="912"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="929"/>
         <source>Assemble at %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="930"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="947"/>
         <source>Failed to assemble instruction &quot; %1 &quot; (%2)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="983"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1000"/>
         <source>Not inside a module...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="989"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1006"/>
         <source>Goto File Offset in </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1084"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1101"/>
         <source>Enter Constant</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1129"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1146"/>
         <source>Find Pattern...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1182"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1199"/>
         <source>Edit code at %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1200"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1217"/>
         <source>Fill code at %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1368"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1385"/>
         <source>Selection not in a module...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1415"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1432"/>
         <source>Failed to assemble instruction &quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1536"/>
         <location filename="../Src/Gui/CPUDisassembly.cpp" line="1553"/>
         <location filename="../Src/Gui/CPUDisassembly.cpp" line="1570"/>
         <location filename="../Src/Gui/CPUDisassembly.cpp" line="1587"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1604"/>
         <source>Failed to set trace record.
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1680"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1697"/>
         <source>Argument for the new thread</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1221"/>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1622"/>
-        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1643"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1238"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1639"/>
+        <location filename="../Src/Gui/CPUDisassembly.cpp" line="1660"/>
         <source>Size</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7755,62 +7755,62 @@ Do you want me to fix this?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/DataCopyDialog.cpp" line="12"/>
+        <location filename="../Src/Gui/DataCopyDialog.cpp" line="11"/>
         <source>C-Style BYTE (Hex)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/DataCopyDialog.cpp" line="13"/>
+        <location filename="../Src/Gui/DataCopyDialog.cpp" line="12"/>
         <source>C-Style WORD (Hex)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/DataCopyDialog.cpp" line="14"/>
+        <location filename="../Src/Gui/DataCopyDialog.cpp" line="13"/>
         <source>C-Style DWORD (Hex)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/DataCopyDialog.cpp" line="15"/>
+        <location filename="../Src/Gui/DataCopyDialog.cpp" line="14"/>
         <source>C-Style QWORD (Hex)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/DataCopyDialog.cpp" line="16"/>
+        <location filename="../Src/Gui/DataCopyDialog.cpp" line="15"/>
         <source>C-Style String</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/DataCopyDialog.cpp" line="17"/>
+        <location filename="../Src/Gui/DataCopyDialog.cpp" line="16"/>
         <source>C-Style Unicode String</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/DataCopyDialog.cpp" line="18"/>
+        <location filename="../Src/Gui/DataCopyDialog.cpp" line="17"/>
         <source>C-Style Shellcode String</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/DataCopyDialog.cpp" line="19"/>
+        <location filename="../Src/Gui/DataCopyDialog.cpp" line="18"/>
         <source>Pascal BYTE (Hex)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/DataCopyDialog.cpp" line="20"/>
+        <location filename="../Src/Gui/DataCopyDialog.cpp" line="19"/>
         <source>Pascal WORD (Hex)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/DataCopyDialog.cpp" line="21"/>
+        <location filename="../Src/Gui/DataCopyDialog.cpp" line="20"/>
         <source>Pascal DWORD (Hex)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/DataCopyDialog.cpp" line="22"/>
+        <location filename="../Src/Gui/DataCopyDialog.cpp" line="21"/>
         <source>Pascal QWORD (Hex)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/DataCopyDialog.cpp" line="23"/>
+        <location filename="../Src/Gui/DataCopyDialog.cpp" line="22"/>
         <source>GUID</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7901,8 +7901,8 @@ Do you want me to fix this?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/EditBreakpointDialog.cpp" line="15"/>
-        <location filename="../Src/Gui/EditBreakpointDialog.cpp" line="19"/>
+        <location filename="../Src/Gui/EditBreakpointDialog.cpp" line="14"/>
+        <location filename="../Src/Gui/EditBreakpointDialog.cpp" line="18"/>
         <source>Edit Breakpoint %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8481,7 +8481,7 @@ Do you want me to fix this?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/HexEditDialog.cpp" line="145"/>
+        <location filename="../Src/Gui/HexEditDialog.cpp" line="144"/>
         <source>Enter text to convert...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8509,7 +8509,7 @@ Do you want me to fix this?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/LineEditDialog.cpp" line="79"/>
+        <location filename="../Src/Gui/LineEditDialog.cpp" line="78"/>
         <source>&lt;font color=&apos;red&apos;&gt;CT: %1%2&lt;/font&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9744,112 +9744,112 @@ Make sure to fill in as much information as possible.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="447"/>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="486"/>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="563"/>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="614"/>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="664"/>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="678"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="446"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="485"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="562"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="613"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="663"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="677"/>
         <source>Information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="447"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="446"/>
         <source>Nothing to patch!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="457"/>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="483"/>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="508"/>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="539"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="456"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="482"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="507"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="538"/>
         <source>Error!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="457"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="456"/>
         <source>Failed to get module filename...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="469"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="468"/>
         <source>Save file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="469"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="468"/>
         <source>All files (*.*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="483"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="482"/>
         <source>Failed to save patched file (%1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="486"/>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="614"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="485"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="613"/>
         <source>%1/%2 patch(es) applied!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="495"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="494"/>
         <source>Open patch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="495"/>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="626"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="494"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="625"/>
         <source>Patch files (*.1337)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="508"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="507"/>
         <source>The patch file is empty...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="539"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="538"/>
         <source>Patch file format is incorrect...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="563"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="562"/>
         <source>No patches to apply in the current process.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="574"/>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="585"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="573"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="584"/>
         <source>Question</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="574"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="573"/>
         <source>Some patches are already applied.
 
 Do you want to remove these patches?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="585"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="584"/>
         <source>Some bytes do not match the original in the patch file.
 
 Do you want to apply these patches anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="626"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="625"/>
         <source>Save patch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="664"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="663"/>
         <source>No patches to export.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/PatchDialog.cpp" line="678"/>
+        <location filename="../Src/Gui/PatchDialog.cpp" line="677"/>
         <source>%1 patch(es) exported!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10673,7 +10673,7 @@ Do you want to apply these patches anyway?</source>
     </message>
     <message>
         <location filename="../Src/Gui/ShortcutsDialog.ui" line="27"/>
-        <location filename="../Src/Gui/ShortcutsDialog.cpp" line="14"/>
+        <location filename="../Src/Gui/ShortcutsDialog.cpp" line="13"/>
         <source>Shortcut</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10693,12 +10693,12 @@ Do you want to apply these patches anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/ShortcutsDialog.cpp" line="14"/>
+        <location filename="../Src/Gui/ShortcutsDialog.cpp" line="13"/>
         <source>Instruction</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/ShortcutsDialog.cpp" line="140"/>
+        <location filename="../Src/Gui/ShortcutsDialog.cpp" line="139"/>
         <source>Settings saved!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11431,12 +11431,12 @@ Do you want to apply these patches anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/YaraRuleSelectionDialog.cpp" line="38"/>
+        <location filename="../Src/Gui/YaraRuleSelectionDialog.cpp" line="37"/>
         <source>Select Yara Rules Directory...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/YaraRuleSelectionDialog.cpp" line="48"/>
+        <location filename="../Src/Gui/YaraRuleSelectionDialog.cpp" line="47"/>
         <source>Select Yara Rule...</source>
         <translation type="unfinished"></translation>
     </message>
