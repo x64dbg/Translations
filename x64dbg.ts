@@ -10216,102 +10216,102 @@ Do you want to apply these patches anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/ScriptView.cpp" line="351"/>
+        <location filename="../Src/Gui/ScriptView.cpp" line="339"/>
+        <source>&amp;Open...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/ScriptView.cpp" line="340"/>
         <source>Load Script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../Src/Gui/ScriptView.cpp" line="345"/>
+        <source>Re&amp;load Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/ScriptView.cpp" line="346"/>
+        <source>&amp;Unload Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/ScriptView.cpp" line="348"/>
+        <source>Toggle &amp;BP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/ScriptView.cpp" line="349"/>
+        <source>Ru&amp;n until selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/ScriptView.cpp" line="350"/>
+        <source>&amp;Step</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/ScriptView.cpp" line="351"/>
+        <source>&amp;Run</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/ScriptView.cpp" line="352"/>
+        <source>&amp;Abort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../Src/Gui/ScriptView.cpp" line="353"/>
-        <source>Open...</source>
+        <source>&amp;Continue here...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/ScriptView.cpp" line="359"/>
-        <source>Reload Script</source>
+        <location filename="../Src/Gui/ScriptView.cpp" line="355"/>
+        <source>&amp;Execute Command...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/ScriptView.cpp" line="364"/>
-        <source>Unload Script</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../Src/Gui/ScriptView.cpp" line="369"/>
-        <source>Run</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../Src/Gui/ScriptView.cpp" line="374"/>
-        <source>Toggle BP</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../Src/Gui/ScriptView.cpp" line="379"/>
-        <source>Run until selection</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../Src/Gui/ScriptView.cpp" line="384"/>
-        <source>Step</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../Src/Gui/ScriptView.cpp" line="389"/>
-        <source>Abort</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../Src/Gui/ScriptView.cpp" line="394"/>
-        <source>Execute Command...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../Src/Gui/ScriptView.cpp" line="399"/>
-        <source>Continue here...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../Src/Gui/ScriptView.cpp" line="490"/>
+        <location filename="../Src/Gui/ScriptView.cpp" line="427"/>
         <source>Error on line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/ScriptView.cpp" line="492"/>
+        <location filename="../Src/Gui/ScriptView.cpp" line="429"/>
         <source>Script Error!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/ScriptView.cpp" line="514"/>
+        <location filename="../Src/Gui/ScriptView.cpp" line="451"/>
         <source>Select script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/ScriptView.cpp" line="514"/>
+        <location filename="../Src/Gui/ScriptView.cpp" line="451"/>
         <source>Script files (*.txt *.scr);;All files (*.*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/ScriptView.cpp" line="548"/>
+        <location filename="../Src/Gui/ScriptView.cpp" line="485"/>
         <source>Error setting script breakpoint!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/ScriptView.cpp" line="577"/>
+        <location filename="../Src/Gui/ScriptView.cpp" line="514"/>
         <source>Execute Script Command...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/ScriptView.cpp" line="581"/>
+        <location filename="../Src/Gui/ScriptView.cpp" line="518"/>
         <source>Error executing command!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/ScriptView.cpp" line="586"/>
+        <location filename="../Src/Gui/ScriptView.cpp" line="523"/>
         <source>Message</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/ScriptView.cpp" line="605"/>
+        <location filename="../Src/Gui/ScriptView.cpp" line="542"/>
         <source>Question</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11312,31 +11312,31 @@ Do you want to apply these patches anyway?</source>
     </message>
     <message>
         <location filename="../Src/Gui/WatchView.cpp" line="108"/>
-        <location filename="../Src/Gui/WatchView.cpp" line="159"/>
+        <location filename="../Src/Gui/WatchView.cpp" line="160"/>
         <source>Disabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/WatchView.cpp" line="111"/>
-        <location filename="../Src/Gui/WatchView.cpp" line="161"/>
+        <location filename="../Src/Gui/WatchView.cpp" line="162"/>
         <source>Changed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/WatchView.cpp" line="114"/>
-        <location filename="../Src/Gui/WatchView.cpp" line="163"/>
+        <location filename="../Src/Gui/WatchView.cpp" line="164"/>
         <source>Is true</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/WatchView.cpp" line="117"/>
-        <location filename="../Src/Gui/WatchView.cpp" line="164"/>
+        <location filename="../Src/Gui/WatchView.cpp" line="165"/>
         <source>Is false</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Src/Gui/WatchView.cpp" line="120"/>
-        <location filename="../Src/Gui/WatchView.cpp" line="162"/>
+        <location filename="../Src/Gui/WatchView.cpp" line="163"/>
         <source>Not changed</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11366,19 +11366,24 @@ Do you want to apply these patches anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/WatchView.cpp" line="200"/>
-        <location filename="../Src/Gui/WatchView.cpp" line="223"/>
+        <location filename="../Src/Gui/WatchView.cpp" line="170"/>
+        <source>&amp;Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../Src/Gui/WatchView.cpp" line="205"/>
+        <location filename="../Src/Gui/WatchView.cpp" line="228"/>
         <source>Enter the expression to watch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/WatchView.cpp" line="200"/>
-        <location filename="../Src/Gui/WatchView.cpp" line="223"/>
+        <location filename="../Src/Gui/WatchView.cpp" line="205"/>
+        <location filename="../Src/Gui/WatchView.cpp" line="228"/>
         <source>Example: [EAX]</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../Src/Gui/WatchView.cpp" line="215"/>
+        <location filename="../Src/Gui/WatchView.cpp" line="220"/>
         <source>Enter the name of the watch variable</source>
         <translation type="unfinished"></translation>
     </message>
