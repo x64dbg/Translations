@@ -1,5 +1,5 @@
 @echo off
-if "%QT64PATH%"=="" set QT64PATH=c:\Qt\qt-5.6.0-x64-msvc2013\5.6\msvc2013_64\bin
+if "%QT64PATH%"=="" set QT64PATH=c:\Qt\qt-5.6.2-x64-msvc2013\5.6\msvc2013_64\bin
 SET PATH=%PATH%;%QT64PATH%;c:\Program Files (x86)\7-Zip
 del /S /Q *.qm
 curl -k https://api.crowdin.com/api/project/x64dbg/export?key=%CROWDIN_API_KEY%
