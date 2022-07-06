@@ -1,0 +1,10 @@
+.vs/
+bin/
+obj/
+Release/
+Debug/
+x64/
+*.aps
+*.vcxproj.user
+packages/
+*.user
