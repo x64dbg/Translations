@@ -1,7 +1,0 @@
-project_identifier: x64dbg
-api_key_env: CROWDIN_API_KEY
-base_path: .
-files:
-  -
-    source: '/x64dbg.ts'
-    translation: '%locale_with_underscore%/%original_file_name%'
