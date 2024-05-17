@@ -186,7 +186,15 @@ namespace TranslationChecker
             void ReportError(Message message, string translation)
             {
                 var location = message.Locations.First();
-                Console.WriteLine($"  Format string error ({location.Filename}:{location.Line})\n    Source:\n      '{message.Source}'\n    Translation:\n      '{translation}'");
+                if (string.IsNullOrEmpty(translation))
+                {
+                    Console.WriteLine($"  Empty translation ({location.Filename}:{location.Line})\n    Source:\n      '{message.Source}'");
+                }
+                else
+                {
+                    Console.WriteLine($"  Format string error ({location.Filename}:{location.Line})\n    Source:\n      '{message.Source}'\n    Translation:\n      '{translation}'");
+
+                }
                 success = false;
                 ErrorCount++;
             }
@@ -224,7 +232,13 @@ namespace TranslationChecker
                         else
                         {
                             var translation = message.Translation.Text;
-                            if (!CheckTranslation(original, translation))
+                            if (string.IsNullOrEmpty(translation))
+                            {
+                                ReportError(message, translation);
+                                if (fix)
+                                    message.Translation.Text = original;
+                            }
+                            else if (!CheckTranslation(original, translation))
                             {
                                 ReportError(message, translation);
                                 if (fix)
@@ -266,19 +280,17 @@ namespace TranslationChecker
             }
 
             var fix = false;
-            var folder = false;
             for (var i = 1; i < args.Length; i++)
             {
                 if (args[i] == "--fix")
                     fix = true;
-                else if (args[i] == "--folder")
-                    folder = true;
             }
 
             var success = true;
-            if (folder)
+            var path = args[0];
+            if (File.GetAttributes(path).HasFlag(FileAttributes.Directory))
             {
-                foreach (var tsFile in Directory.EnumerateFiles(args[0], "*.ts", SearchOption.AllDirectories))
+                foreach (var tsFile in Directory.EnumerateFiles(path, "*.ts", SearchOption.AllDirectories))
                 {
                     if (!CheckFile(tsFile, fix))
                         success = false;
@@ -286,7 +298,7 @@ namespace TranslationChecker
             }
             else
             {
-                success = CheckFile(args[0], fix);
+                success = CheckFile(path, fix);
             }
 
             Console.WriteLine($"\nTotal errors: {ErrorCount}");

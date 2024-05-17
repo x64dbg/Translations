@@ -10,7 +10,7 @@ java -jar crowdin-cli.jar download
 if not %ERRORLEVEL%==0 exit /b
 
 echo Checking translations...
-TranslationChecker.exe translations --folder --fix
+TranslationChecker.exe translations --fix
 set CHECKER_ERRORLEVEL=%ERRORLEVEL%
 
 echo Generating Qt translations...
