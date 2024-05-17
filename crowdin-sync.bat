@@ -1,7 +1,7 @@
 @echo off
 
 echo Uploading English sources to Crowdin...
-java -jar crowdin-cli.jar upload sources
+java -jar crowdin-cli.jar --no-colors --no-progress upload sources
 if not %ERRORLEVEL%==0 exit /b
 
 echo Downloading translations from Crowdin...
