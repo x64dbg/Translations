@@ -2,4 +2,5 @@
 *.qm
 *.jar
 *.zip
+*.log
 translations/
