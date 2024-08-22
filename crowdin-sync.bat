@@ -1,12 +1,12 @@
 @echo off
 
 echo Uploading English sources to Crowdin...
-java -jar crowdin-cli.jar --no-colors --no-progress upload sources
+java -jar crowdin-cli.jar upload sources --no-colors --no-progress
 if not %ERRORLEVEL%==0 exit /b
 
 echo Downloading translations from Crowdin...
 rmdir /S /Q translations >nul 2>&1
-java -jar crowdin-cli.jar --no-colors --no-progress download
+java -jar crowdin-cli.jar download --no-colors --no-progress
 if not %ERRORLEVEL%==0 exit /b
 
 echo Checking translations...
