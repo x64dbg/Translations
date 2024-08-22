@@ -6,7 +6,7 @@ if not %ERRORLEVEL%==0 exit /b
 
 echo Downloading translations from Crowdin...
 rmdir /S /Q translations >nul 2>&1
-java -jar crowdin-cli.jar download
+java -jar crowdin-cli.jar --no-colors --no-progress download
 if not %ERRORLEVEL%==0 exit /b
 
 echo Checking translations...
