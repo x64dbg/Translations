@@ -11504,17 +11504,44 @@ Do you want me to fix this?</source>
   <context>
     <name>DbgAdapter</name>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="272"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="262"/>
+      <source>Thread switched</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="284"/>
+      <source>suspend</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="284"/>
+      <source>resume</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="287"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="302"/>
+      <source>suspended</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="287"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="302"/>
+      <source>resumed</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="388"/>
       <source>System breakpoint</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="285"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="402"/>
       <source>Step</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="291"/>
+      <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="408"/>
       <source>Paused</source>
       <translation>Angehalten</translation>
     </message>
@@ -13341,7 +13368,7 @@ Möchten Sie das Rendern dieses Diagramms fortsetzen?</translation>
       <location filename="src/cross/minidump/MainWindow.ui" line="38"/>
       <location filename="src/cross/remote_table/MainWindow.ui" line="38"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="34"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="41"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="44"/>
       <source>&amp;File</source>
       <translation>&amp;Datei</translation>
     </message>
@@ -13382,12 +13409,13 @@ Möchten Sie das Rendern dieses Diagramms fortsetzen?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="75"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="50"/>
       <source>&amp;View</source>
       <translation>&amp;Ansicht</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="109"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="47"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="67"/>
       <source>&amp;Debug</source>
       <translation>&amp;Debug</translation>
     </message>
@@ -13457,7 +13485,7 @@ Möchten Sie das Rendern dieses Diagramms fortsetzen?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="334"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="45"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="48"/>
       <source>E&amp;xit</source>
       <translation>Be&amp;enden</translation>
     </message>
@@ -13468,7 +13496,7 @@ Möchten Sie das Rendern dieses Diagramms fortsetzen?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="346"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="48"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="68"/>
       <source>&amp;Run</source>
       <translation>Ausfüh&amp;ren</translation>
     </message>
@@ -13655,12 +13683,13 @@ Möchten Sie das Rendern dieses Diagramms fortsetzen?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="571"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="51"/>
       <source>&amp;CPU</source>
       <translation>&amp;CPU</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="574"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="126"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="146"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="204"/>
       <source>CPU</source>
       <translation>CPU</translation>
@@ -13703,12 +13732,14 @@ Möchten Sie das Rendern dieses Diagramms fortsetzen?</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="616"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="61"/>
       <source>&amp;Threads</source>
       <translation>&amp;Threads</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="619"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="144"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="165"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="166"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="220"/>
       <source>Threads</source>
       <translation>Threads</translation>
@@ -13837,7 +13868,7 @@ Möchten Sie das Rendern dieses Diagramms fortsetzen?</translation>
     <message>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="763"/>
       <location filename="src/gui/Src/Gui/MainWindow.ui" line="766"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="163"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="188"/>
       <source>Call Stack</source>
       <translation>Aufrufstapel</translation>
@@ -14491,140 +14522,140 @@ Möchten Sie das Rendern dieses Diagramms fortsetzen?</translation>
       <translation>Versionshinweise</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="42"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="45"/>
       <source>&amp;Open...</source>
       <translation>Ö&amp;ffnen...</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="52"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="56"/>
+      <source>&amp;Log</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="72"/>
       <source>Toggle &amp;Breakpoint</source>
       <translation>&amp;Haltepunkt umschalten</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="55"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="75"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="477"/>
       <source>Ready</source>
       <translation>Bereit</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="84"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="104"/>
       <source>Main Toolbar</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="91"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="111"/>
       <source>Open (Ctrl+O)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="94"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="114"/>
       <source>Restart</source>
       <translation>Neustart</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="98"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="118"/>
       <source>Close</source>
       <translation>Schließen</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="104"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="124"/>
       <source>Run (F9)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="107"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="127"/>
       <source>Pause</source>
       <translation>Pause</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="112"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="132"/>
       <source>Step Into (F7)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="116"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="136"/>
       <source>Step Over (F8)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="129"/>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="131"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="149"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="151"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="155"/>
       <source>Log</source>
       <translation>Log</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="141"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="161"/>
       <source>Breakpoints view - not yet implemented</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="141"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="161"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="174"/>
       <source>Breakpoints</source>
       <translation>&amp;Haltepunkte</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="162"/>
       <source>Memory map view - not yet implemented</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="142"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="162"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="182"/>
       <source>Memory Map</source>
       <translation>Speicher Map</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="143"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="163"/>
       <source>Call stack view - not yet implemented</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="144"/>
-      <source>Threads view - not yet implemented</source>
-      <translation type="unfinished"/>
-    </message>
-    <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="153"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="175"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1977"/>
       <source>Disassembly</source>
       <translation>Disassembler</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="155"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="177"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1980"/>
       <source>Dump</source>
       <translation>Dump</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="157"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="179"/>
       <location filename="src/gui/Src/Gui/MainWindow.cpp" line="1983"/>
       <source>Stack</source>
       <translation>Stapel</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="171"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="193"/>
       <source>Hex</source>
       <translation>Hex</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="179"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="201"/>
       <source>ASCII</source>
       <translation>ASCII</translation>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="220"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="242"/>
       <source>Open ELF Binary</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="220"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="242"/>
       <source>All Files (*)</source>
       <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="254"/>
+      <location filename="src/cross/debugger/gui/MainWindow.cpp" line="285"/>
       <source>Running</source>
       <translation>Läuft</translation>
     </message>
@@ -18157,46 +18188,175 @@ This could introduce unexpected behaviour to your debugging session...</source>
   <context>
     <name>ThreadView</name>
     <message>
-      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="28"/>
-      <source>Switch Thread</source>
-      <translation>Thread wechseln</translation>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="38"/>
+      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="45"/>
+      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="52"/>
+      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="243"/>
+      <source>Normal</source>
+      <translation>Normal</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="29"/>
-      <source>Suspend Thread</source>
-      <translation>Thread einfrieren</translation>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="38"/>
+      <source>Nice %1</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="30"/>
-      <source>Resume Thread</source>
-      <translation>Thread fortsetzen</translation>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="40"/>
+      <source>Batch</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="31"/>
-      <source>Suspend All Threads</source>
-      <translation>Alle Threads anhalten</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="32"/>
-      <source>Resume All Threads</source>
-      <translation>Alle Threads fortsetzen</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="33"/>
-      <source>Kill Thread</source>
-      <translation>Thread beenden</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="37"/>
-      <source>Set Name</source>
-      <translation>Name festlegen</translation>
-    </message>
-    <message>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="42"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="40"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="58"/>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="228"/>
       <source>Idle</source>
       <translation>Idle</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="44"/>
+      <source>FIFO %1</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="46"/>
+      <source>RR %1</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="48"/>
+      <source>Deadline</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="50"/>
+      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="249"/>
+      <source>Unknown</source>
+      <translation>Unbekannt</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="60"/>
+      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="152"/>
+      <source>Number</source>
+      <translation>Nummer</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="61"/>
+      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="153"/>
+      <source>ID</source>
+      <translation>ID</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="62"/>
+      <source>FS Base</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="63"/>
+      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="156"/>
+      <source>RIP</source>
+      <translation>RIP</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="64"/>
+      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="157"/>
+      <source>Suspend Count</source>
+      <translation>Anzahl Gesperrter</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="65"/>
+      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="158"/>
+      <source>Priority</source>
+      <translation>Priorität</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="66"/>
+      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="159"/>
+      <source>Wait Reason</source>
+      <translation>Haltegrund</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="67"/>
+      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="161"/>
+      <source>User Time</source>
+      <translation>Benutzer-Zeit</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="68"/>
+      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="162"/>
+      <source>Kernel Time</source>
+      <translation>Kernelzeit</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="69"/>
+      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="163"/>
+      <source>Creation Time</source>
+      <translation>Erstellungszeit</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="70"/>
+      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="165"/>
+      <source>Name</source>
+      <translation>Name</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="84"/>
+      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="28"/>
+      <source>Switch Thread</source>
+      <translation>Thread wechseln</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="85"/>
+      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="29"/>
+      <source>Suspend Thread</source>
+      <translation>Thread einfrieren</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="86"/>
+      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="30"/>
+      <source>Resume Thread</source>
+      <translation>Thread fortsetzen</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="87"/>
+      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="31"/>
+      <source>Suspend All Threads</source>
+      <translation>Alle Threads anhalten</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="88"/>
+      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="32"/>
+      <source>Resume All Threads</source>
+      <translation>Alle Threads fortsetzen</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="90"/>
+      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="37"/>
+      <source>Set Name</source>
+      <translation>Name festlegen</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="92"/>
+      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="108"/>
+      <source>&amp;Copy</source>
+      <translation>&amp;Kopieren</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="117"/>
+      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="215"/>
+      <source>Main</source>
+      <translation>Main</translation>
+    </message>
+    <message>
+      <location filename="src/cross/debugger/gui/ThreadView.cpp" line="159"/>
+      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="417"/>
+      <source>Thread name - %1</source>
+      <translation>Thread-Name - %1</translation>
+    </message>
+    <message>
+      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="33"/>
+      <source>Kill Thread</source>
+      <translation>Thread beenden</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="41"/>
@@ -18221,13 +18381,6 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="240"/>
       <source>Lowest</source>
       <translation>Sehr niedrig</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="45"/>
-      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="52"/>
-      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="243"/>
-      <source>Normal</source>
-      <translation>Normal</translation>
     </message>
     <message>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="46"/>
@@ -18263,21 +18416,6 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <translation>Zu Thread Einstieg gehen</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="108"/>
-      <source>&amp;Copy</source>
-      <translation>&amp;Kopieren</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="152"/>
-      <source>Number</source>
-      <translation>Nummer</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="153"/>
-      <source>ID</source>
-      <translation>ID</translation>
-    </message>
-    <message>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="154"/>
       <source>Entry</source>
       <translation>Eintrag</translation>
@@ -18293,69 +18431,14 @@ This could introduce unexpected behaviour to your debugging session...</source>
       <translation>EIP</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="156"/>
-      <source>RIP</source>
-      <translation>RIP</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="157"/>
-      <source>Suspend Count</source>
-      <translation>Anzahl Gesperrter</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="158"/>
-      <source>Priority</source>
-      <translation>Priorität</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="159"/>
-      <source>Wait Reason</source>
-      <translation>Haltegrund</translation>
-    </message>
-    <message>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="160"/>
       <source>Last Error</source>
       <translation>Letzter Fehler</translation>
     </message>
     <message>
-      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="161"/>
-      <source>User Time</source>
-      <translation>Benutzer-Zeit</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="162"/>
-      <source>Kernel Time</source>
-      <translation>Kernelzeit</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="163"/>
-      <source>Creation Time</source>
-      <translation>Erstellungszeit</translation>
-    </message>
-    <message>
       <location filename="src/gui/Src/Gui/ThreadView.cpp" line="164"/>
       <source>CPU Cycles</source>
       <translation>CPU-Zyklen</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="165"/>
-      <source>Name</source>
-      <translation>Name</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="215"/>
-      <source>Main</source>
-      <translation>Main</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="249"/>
-      <source>Unknown</source>
-      <translation>Unbekannt</translation>
-    </message>
-    <message>
-      <location filename="src/gui/Src/Gui/ThreadView.cpp" line="417"/>
-      <source>Thread name - %1</source>
-      <translation>Thread-Name - %1</translation>
     </message>
   </context>
   <context>
