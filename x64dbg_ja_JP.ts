@@ -11541,29 +11541,29 @@ Do you want me to fix this?</source>
     <message>
       <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="262"/>
       <source>Thread switched</source>
-      <translation type="unfinished"/>
+      <translation>スレッドが切り替わりました</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="284"/>
       <source>suspend</source>
-      <translation type="unfinished"/>
+      <translation>一時停止</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="284"/>
       <source>resume</source>
-      <translation type="unfinished"/>
+      <translation>再開</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="287"/>
       <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="302"/>
       <source>suspended</source>
-      <translation type="unfinished"/>
+      <translation>一時停止中</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="287"/>
       <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="302"/>
       <source>resumed</source>
-      <translation type="unfinished"/>
+      <translation>再開</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/core/DbgAdapter.cpp" line="388"/>
@@ -14569,7 +14569,7 @@ Do you want to continue rendering this graph?</source>
     <message>
       <location filename="src/cross/debugger/gui/MainWindow.cpp" line="56"/>
       <source>&amp;Log</source>
-      <translation type="unfinished"/>
+      <translation>ログ(&amp;L)</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/MainWindow.cpp" line="72"/>
@@ -18207,12 +18207,12 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/cross/debugger/gui/ThreadView.cpp" line="38"/>
       <source>Nice %1</source>
-      <translation type="unfinished"/>
+      <translation>Nice %1</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/ThreadView.cpp" line="40"/>
       <source>Batch</source>
-      <translation type="unfinished"/>
+      <translation>バッチ</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/ThreadView.cpp" line="42"/>
@@ -18225,17 +18225,17 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/cross/debugger/gui/ThreadView.cpp" line="44"/>
       <source>FIFO %1</source>
-      <translation type="unfinished"/>
+      <translation>FIFO %1</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/ThreadView.cpp" line="46"/>
       <source>RR %1</source>
-      <translation type="unfinished"/>
+      <translation>RR %1</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/ThreadView.cpp" line="48"/>
       <source>Deadline</source>
-      <translation type="unfinished"/>
+      <translation>Deadline</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/ThreadView.cpp" line="50"/>
@@ -18258,7 +18258,7 @@ This could introduce unexpected behaviour to your debugging session...</source>
     <message>
       <location filename="src/cross/debugger/gui/ThreadView.cpp" line="62"/>
       <source>FS Base</source>
-      <translation type="unfinished"/>
+      <translation>FS ベース</translation>
     </message>
     <message>
       <location filename="src/cross/debugger/gui/ThreadView.cpp" line="63"/>
